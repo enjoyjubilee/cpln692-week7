@@ -1,0 +1,68 @@
+State Name Abbreviation,State Name,State FIPS Code,County FIPS Code,County Code,Short County Name,County Name,FIPS Class Code,CountyFIPSCode
+PA,Pennsylvania,42,39,20,Crawford,Crawford County,H1,42039
+PA,Pennsylvania,42,79,40,Luzerne ,Luzerne County,H1,42079
+PA,Pennsylvania,42,77,39,Lehigh ,Lehigh County,H1,42077
+PA,Pennsylvania,42,83,42,McKean,McKean County,H1,42083
+PA,Pennsylvania,42,89,45,Monroe,Monroe County,H1,42089
+PA,Pennsylvania,42,27,14,Centre,Centre County,H1,42027
+PA,Pennsylvania,42,41,21,Cumberland,Cumberland County,H1,42041
+PA,Pennsylvania,42,43,22,Dauphin,Dauphin County,H1,42043
+PA,Pennsylvania,42,45,23,Delaware,Delaware County,H1,42045
+PA,Pennsylvania,42,51,26,Fayette,Fayette County,H1,42051
+PA,Pennsylvania,42,73,37,Lawrence ,Lawrence County,H1,42073
+PA,Pennsylvania,42,81,41,Lycoming,Lycoming County,H1,42081
+PA,Pennsylvania,42,91,46,Montgomery,Montgomery County,H1,42091
+PA,Pennsylvania,42,93,47,Montour,Montour County,H1,42093
+PA,Pennsylvania,42,95,48,Northampton,Northampton County,H1,42095
+PA,Pennsylvania,42,47,24,Elk,Elk County,H1,42047
+PA,Pennsylvania,42,49,25,Erie,Erie County,H1,42049
+PA,Pennsylvania,42,75,38,Lebanon ,Lebanon County,H1,42075
+PA,Pennsylvania,42,7,4,Beaver,Beaver County,H1,42007
+PA,Pennsylvania,42,55,28,Franklin,Franklin County,H1,42055
+PA,Pennsylvania,42,57,29,Fulton,Fulton County,H1,42057
+PA,Pennsylvania,42,71,36,Lancaster,Lancaster County,H1,42071
+PA,Pennsylvania,42,85,43,Mercer,Mercer County,H1,42085
+PA,Pennsylvania,42,59,30,Greene,Greene County,H1,42059
+PA,Pennsylvania,42,61,31,Huntingdon,Huntingdon County,H1,42061
+PA,Pennsylvania,42,63,32,Indiana,Indiana County,H1,42063
+PA,Pennsylvania,42,65,33,Jefferson,Jefferson County,H1,42065
+PA,Pennsylvania,42,67,34,Juniata,Juniata County,H1,42067
+PA,Pennsylvania,42,69,35,Lackawanna,Lackawanna County,H1,42069
+PA,Pennsylvania,42,87,44,Mifflin,Mifflin County,H1,42087
+PA,Pennsylvania,42,97,49,Northumberland,Northumberland County,H1,42097
+PA,Pennsylvania,42,99,50,Perry,Perry County,H1,42099
+PA,Pennsylvania,42,101,51,Philadelphia,Philadelphia County,H6,42101
+PA,Pennsylvania,42,103,52,Pike,Pike County,H1,42103
+PA,Pennsylvania,42,105,53,Potter,Potter County,H1,42105
+PA,Pennsylvania,42,107,54,Schuylkill,Schuylkill County,H1,42107
+PA,Pennsylvania,42,109,55,Snyder,Snyder County,H1,42109
+PA,Pennsylvania,42,111,56,Somerset,Somerset County,H1,42111
+PA,Pennsylvania,42,113,57,Sullivan,Sullivan County,H1,42113
+PA,Pennsylvania,42,115,58,Susquehanna,Susquehanna County,H1,42115
+PA,Pennsylvania,42,117,59,Tioga,Tioga County,H1,42117
+PA,Pennsylvania,42,119,60,Union,Union County,H1,42119
+PA,Pennsylvania,42,121,61,Venango,Venango County,H1,42121
+PA,Pennsylvania,42,123,62,Warren,Warren County,H1,42123
+PA,Pennsylvania,42,125,63,Washington,Washington County,H1,42125
+PA,Pennsylvania,42,127,64,Wayne,Wayne County,H1,42127
+PA,Pennsylvania,42,129,65,Westmoreland,Westmoreland County,H1,42129
+PA,Pennsylvania,42,131,66,Wyoming,Wyoming County,H1,42131
+PA,Pennsylvania,42,133,67,York,York County,H1,42133
+PA,Pennsylvania,42,19,10,Butler,Butler County,H1,42019
+PA,Pennsylvania,42,21,11,Cambria,Cambria County,H1,42021
+PA,Pennsylvania,42,23,12,Cameron,Cameron County,H1,42023
+PA,Pennsylvania,42,25,13,Carbon,Carbon County,H1,42025
+PA,Pennsylvania,42,29,15,Chester,Chester County,H1,42029
+PA,Pennsylvania,42,31,16,Clarion,Clarion County,H1,42031
+PA,Pennsylvania,42,33,17,Clearfield,Clearfield County,H1,42033
+PA,Pennsylvania,42,35,18,Clinton,Clinton County,H1,42035
+PA,Pennsylvania,42,37,19,Columbia,Columbia County,H1,42037
+PA,Pennsylvania,42,53,27,Forest,Forest County,H1,42053
+PA,Pennsylvania,42,1,1,Adams,Adams County,H1,42001
+PA,Pennsylvania,42,3,2,Allegheny,Allegheny County,H1,42003
+PA,Pennsylvania,42,5,3,Armstrong,Armstrong County,H1,42005
+PA,Pennsylvania,42,9,5,Bedford,Bedford County,H1,42009
+PA,Pennsylvania,42,11,6,Berks ,Berks County,H1,42011
+PA,Pennsylvania,42,13,7,Blair,Blair County,H1,42013
+PA,Pennsylvania,42,15,8,Bradford,Bradford County,H1,42015
+PA,Pennsylvania,42,17,9,Bucks,Bucks County,H1,42017

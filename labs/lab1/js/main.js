@@ -48,6 +48,8 @@ https://medium.com/@sumit.arora/what-is-geojson-geojson-basics-visualize-geojson
 // Task 1.1 - add the five markers from squares.json to the map using the methods
 // we've used so far in class: _.map or _.each, forEach()
 
+var geojsonLayer =  L.geoJSON(JSON.parse('squares.json'));       
+geojsonLayer.addTo(map);
 
 // Task 1.2 - remove squares.json from the map
 // iterating over each marker  using map.removeLayer(point)

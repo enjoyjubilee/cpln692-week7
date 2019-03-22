@@ -1,0 +1,499 @@
+"","X","year","rank","city","growth","workers","company","state","revenue","yrs_on_list","industry","metro","longitude","latitude","street.address","url","zip","founded"
+"1",1326,2016,1270,"Wayne",304.2965,49,"Navigate(2)","PA",9660225,2,"Business Products & Services","Philadelphia",-79.9983,40.44,NA,0,0,0
+"2",1469,2016,4757,"Pittsburgh",48.251,196,"Summa Technologies","PA",34301687,7,"IT Services","Pittsburgh, PA",-79.9966,40.44,NA,0,0,0
+"3",1447,2016,4480,"Pittsburgh",56.7836,35,"Beyond Spots & Dots","PA",4806214,5,"Advertising & Marketing","Pittsburgh, PA",-79.9899,40.44,NA,0,0,0
+"4",1330,2016,1453,"Pittsburgh",263.5032,29,"LunaMetrics","PA",5125511,4,"Business Products & Services","Pittsburgh, PA",-79.9806,40.43,NA,0,0,0
+"5",1463,2016,4674,"butler",50.8984,6,"Turbie Twist","PA",8144508,3,"Consumer Products & Services","Pittsburgh, PA",-79.9803,40.85,NA,0,0,0
+"6",1304,2016,421,"PITTSBURGH",914.3662,84,"EDWARD MARC BRANDS","PA",24415986,3,"Food & Beverage","Pittsburgh, PA",-79.9678,40.47,NA,0,0,0
+"7",1371,2016,2410,"Butler",149.6587,11,"70E Solutions","PA",3007459,2,"Construction","Pittsburgh, PA",-79.9626,40.85,NA,0,0,0
+"8",1410,2016,3641,"Pittsburgh",85.4736,20,"C-leveled","PA",2580579,2,"Business Products & Services","Pittsburgh, PA",-79.9539,40.46,NA,0,0,0
+"9",1413,2016,3695,"Pittsburgh",83.6665,30,"Niche.com","PA",5179524,5,"Education","Pittsburgh, PA",-79.9301,40.46,NA,0,0,0
+"10",1473,2016,4855,"Everett",45.3232,49,"Everett Cash Mutual Insurance Co.","PA",72821584,1,"Insurance",NA,-78.428,40.02,NA,0,0,0
+"11",1347,2016,1775,"PHILIPSBURG",210.0623,27,"TMMData","PA",3058811,2,"Software","DuBois, PA",-78.2225,40.9,NA,0,0,0
+"12",1432,2016,4095,"Philipsburg",69.5586,42,"DiamondBack Truck Covers","PA",6009413,5,"Manufacturing","State College, PA",-78.209,40.91,NA,0,0,0
+"13",1423,2016,3919,"Philipsburg",75.291,32,"Advanced Powder Products","PA",4923278,2,"Manufacturing","State College, PA",-78.1945,40.9,NA,0,0,0
+"14",1456,2016,4551,"Harrisburg",54.6921,196,"Penn Credit","PA",25412737,2,"Financial Services","Harrisburg-Carlisle, PA",-77.8194,40.78,NA,0,0,0
+"15",1338,2016,1657,"Erie",226.3378,26,"AcousticSheep","PA",3903000,1,"Consumer Products & Services","Erie, PA",-77.6902,40.92,NA,0,0,0
+"16",1331,2016,1456,"Chambersburg",263.0973,80,"Tapestry Technologies","PA",16057707,4,"Security","Chambersburg-Waynesboro, PA",-77.6473,39.99,NA,0,0,0
+"17",1416,2016,3773,"Mechanicsburg",81.127,347,"Client Solution Architects","PA",56437876,6,"Business Products & Services","Harrisburg-Carlisle, PA",-76.985,40.19,NA,0,0,0
+"18",1343,2016,1715,"Pittsburgh",217.0013,232,"Net Health","PA",38205000,8,"Health","Pittsburgh, PA",-76.8437,40.35,NA,0,0,0
+"19",1459,2016,4607,"Harrisburg",52.8038,11,"Millennium Circuits Limited","PA",4855626,1,"Manufacturing","Harrisburg-Carlisle, PA",-76.7567,40.27,NA,0,0,0
+"20",1474,2016,4901,"Hummelstown",43.8082,4,"Proforma Destiny Promotions","PA",2009000,1,"Business Products & Services","Harrisburg-Carlisle, PA",-76.7071,40.27,NA,0,0,0
+"21",1430,2016,4057,"York",70.9063,105,"St. Onge Company","PA",26686642,3,"Engineering","York-Hanover, PA",-76.6639,39.99,NA,0,0,0
+"22",1368,2016,2308,"Annville",157.2936,37,"Candoris Technologies","PA",15912586,2,"IT Services","Lebanon, PA",-76.5002,40.34,NA,0,0,0
+"23",1396,2016,3154,"Lebanon",107.0172,40,"DRT Transportation","PA",38534900,5,"Logistics & Transportation","Lebanon, PA",-76.4314,40.29,NA,0,0,0
+"24",1344,2016,1728,"Llititz",215.1765,220,"Listrak(1)","PA",35118407,4,"Retail","Lancaster, PA",-76.3177,40.13,NA,0,0,0
+"25",1421,2016,3888,"Lancaster",76.659,25,"Williams Forrest(1)","PA",4159304,3,"IT Services","Lancaster, PA",-76.3092,40.04,NA,0,0,0
+"26",1421,2016,3888,"Lancaster",76.659,25,"Williams Forrest(2)","PA",4159304,3,"IT Services","Lancaster, PA",-76.3003,40.04,NA,0,0,0
+"27",1344,2016,1728,"Llititz",215.1765,220,"Listrak(3)","PA",35118407,4,"Retail","Lancaster, PA",-76.2954,40.16,NA,0,0,0
+"28",1344,2016,1728,"Llititz",215.1765,220,"Listrak(2)","PA",35118407,4,"Retail","Lancaster, PA",-76.2929,40.16,NA,0,0,0
+"29",1399,2016,3200,"Lancaster",104.7514,132,"Primitives by Kathy(2)","PA",56624000,4,"Consumer Products & Services","Lancaster, PA",-76.2542,40.05,NA,0,0,0
+"30",1399,2016,3200,"Lancaster",104.7514,132,"Primitives by Kathy(1)","PA",56624000,4,"Consumer Products & Services","Lancaster, PA",-76.2438,40.05,NA,0,0,0
+"31",1431,2016,4092,"Ephrata",69.6487,40,"CounterTek","PA",4362714,1,"Manufacturing","Lancaster, PA",-76.1227,40.2,NA,0,0,0
+"32",1321,2016,1007,"Sinking Spring",393.8664,13,"D&B Elite","PA",4983186,2,"Construction","Reading, PA",-75.9975,40.31,NA,0,0,0
+"33",1364,2016,2160,"Mohnton",170.5921,43,"Mail Shark","PA",14574336,6,"Advertising & Marketing","Lancaster, PA",-75.9763,40.25,NA,0,0,0
+"34",1472,2016,4852,"Reading",45.3883,21,"United Document Destruction & Storage","PA",2084719,1,"Business Products & Services","Reading, PA",-75.9509,40.4,NA,0,0,0
+"35",1316,2016,802,"Reading",495.2044,15,"RER Energy Group","PA",6456890,3,"Energy","Reading, PA",-75.9389,40.41,NA,0,0,0
+"36",1362,2016,2033,"West Grove",183.2811,19,"Sycamore International","PA",2738521,2,"Computer Hardware","Philadelphia",-75.8447,39.82,NA,0,0,0
+"37",1407,2016,3528,"Harrisburg",89.5278,12,"Soccer Shots","PA",4004964,1,"Education","Harrisburg-Carlisle, PA",-75.7383,39.7,NA,0,0,0
+"38",1313,2016,646,"Downingtown",602.6613,25,"Bolt On Technology","PA",3195802,2,"Software","Philadelphia",-75.7011,40,NA,0,0,0
+"39",1462,2016,4668,"Exton",50.9672,9,"gBuild Construction Managers","PA",7349385,4,"Construction","Philadelphia",-75.6909,40.04,NA,0,0,0
+"40",1465,2016,4684,"Malvern",50.355,142,"Entech Consulting","PA",19840768,2,"IT Services","Philadelphia",-75.6494,40.11,NA,0,0,0
+"41",1335,2016,1574,"Allentown",239.6865,8,"The Denzel Group","PA",2321655,1,"IT Services","Allentown-Bethlehem-Easton, PA-NJ",-75.6211,40.58,NA,0,0,0
+"42",1311,2016,629,"Philadelphia",615.2151,230,"Saxbys(1)","PA",5657323,2,"Food & Beverage","Philadelphia",-75.5971,39.95,NA,0,0,0
+"43",1464,2016,4681,"West Chester",50.4227,87,"Green Lawn Fertilizing","PA",10116860,6,"Consumer Products & Services","Philadelphia",-75.5959,39.98,NA,0,0,0
+"44",1352,2016,1876,"Malvern",198.4717,127,"FluidEdge Consulting","PA",26053973,6,"Health","Philadelphia",-75.5775,40.03,NA,0,0,0
+"45",1417,2016,3802,"West Chester",79.8813,31,"TrafficSafetyStore.com","PA",10578408,2,"Retail","Philadelphia",-75.5747,39.99,NA,0,0,0
+"46",1398,2016,3194,"Allentown",105.0708,70,"SoftNice","PA",11145256,9,"IT Services","Allentown-Bethlehem-Easton, PA-NJ",-75.5658,40.59,NA,0,0,0
+"47",1439,2016,4338,"Kimberton",61.0652,54,"ALL4","PA",7608189,10,"Environmental Services","Philadelphia",-75.557,40.13,NA,0,0,0
+"48",1381,2016,2735,"Chadds Ford",128.1659,27,"Freerateupdate.com","PA",7832482,4,"Advertising & Marketing","Philadelphia",-75.5494,39.88,NA,0,0,0
+"49",1441,2016,4382,"Malvern",59.6847,135,"Stream Companies(2)","PA",42440324,10,"Advertising & Marketing","Philadelphia",-75.542,40.06,NA,0,0,0
+"50",1395,2016,3116,"Chadds Ford",108.7663,100,"Arora Engineers","PA",16935750,9,"Engineering","Philadelphia",-75.5374,39.84,NA,0,0,0
+"51",1478,2016,4938,"Malvern",42.3889,101,"Cenero","PA",27918839,4,"Business Products & Services","Philadelphia",-75.5276,40.07,NA,0,0,0
+"52",1470,2016,4776,"Whitehall",47.7125,14,"EZ Micro Solutions","PA",2278856,1,"IT Services","Allentown-Bethlehem-Easton, PA-NJ",-75.4819,40.65,NA,0,0,0
+"53",1372,2016,2476,"Collegeville",144.1915,18000,"PeopleShare","PA",105857679,9,"Human Resources","Philadelphia",-75.4759,40.16,NA,0,0,0
+"54",1453,2016,4532,"Garnet Valley",55.2197,85,"IMS Technology Services","PA",20729628,6,"Business Products & Services","Philadelphia",-75.4736,39.85,NA,0,0,0
+"55",1427,2016,4039,"Berwyn",71.524,63,"SkillSurvey","PA",17730413,6,"Human Resources","Philadelphia",-75.4718,40.06,NA,0,0,0
+"56",1433,2016,4100,"Paoli",69.2838,33,"Geneva Global","PA",15603053,2,"Business Products & Services","Philadelphia",-75.4658,40.04,NA,0,0,0
+"57",1434,2016,4133,"Glen Mills",67.998,463,"Pentec Health","PA",129186654,8,"Health","Philadelphia",-75.463,39.86,NA,0,0,0
+"58",1345,2016,1735,"Glen Mills",214.1974,35,"Holganix","PA",5321222,3,"Environmental Services","Philadelphia",-75.4236,39.84,NA,0,0,0
+"59",1356,2016,1949,"King of Prussia",190.4393,91,"Greenphire(2)","PA",14833547,5,"Software","Philadelphia",-75.4138,40.1,NA,0,0,0
+"60",1454,2016,4533,"King of Prussia",55.2015,145,"ReminderMedia","PA",23386026,2,"Advertising & Marketing","Philadelphia",-75.4125,40.1,NA,0,0,0
+"61",1388,2016,2962,"Wayne",115.6333,45,"Transit System","PA",11004197,7,"Logistics & Transportation","Philadelphia",-75.4091,40.08,NA,0,0,0
+"62",1308,2016,563,"Audubon",699.106,62,"ORS Partners","PA",5669785,2,"Human Resources","Philadelphia",-75.4048,40.13,NA,0,0,0
+"63",1356,2016,1949,"King of Prussia",190.4393,91,"Greenphire(1)","PA",14833547,5,"Software","Philadelphia",-75.3947,40.1,NA,0,0,0
+"64",1415,2016,3730,"Wayne",82.4453,27,"Pathfinders IT","PA",9757904,1,"IT Services","Philadelphia",-75.3942,40.04,NA,0,0,0
+"65",1353,2016,1894,"King of Prussia",196.8924,20,"J2 Solutions","PA",4050800,3,"IT Services","Philadelphia",-75.3941,40.09,NA,0,0,0
+"66",1379,2016,2659,"Boothwyn",132.1009,47,"Kinetix","PA",9076342,3,"Security","Philadelphia",-75.3877,39.92,NA,0,0,0
+"67",1390,2016,3014,"East Norriton",113.501,42,"Expo Logic","PA",5165000,5,"Business Products & Services","Philadelphia",-75.3712,40.16,NA,0,0,0
+"68",1307,2016,560,"King of Prussia",699.9167,271,"Veterinary Practice Partners","PA",23985534,2,"Health","Philadelphia",-75.3565,40.08,NA,0,0,0
+"69",1418,2016,3808,"Villanova",79.7377,45,"Avenue Two Travel","PA",18781889,2,"Travel & Hospitality","Philadelphia",-75.3516,40.04,NA,0,0,0
+"70",1435,2016,4162,"Norristown",66.6185,12,"Secure Components","PA",4748991,3,"Business Products & Services","Philadelphia",-75.3257,40.11,NA,0,0,0
+"71",1467,2016,4722,"West Conshohocken",49.4114,253,"Medsurant Holdings","PA",45071306,2,"Health","Philadelphia",-75.3119,40.07,NA,0,0,0
+"72",1404,2016,3378,"Conshohocken",96.9265,32,"CSG Global(2)","PA",9719085,4,"IT Services","Philadelphia",-75.3112,40.08,NA,0,0,0
+"73",1309,2016,602,"Drexel Hill",652.8484,2,"Strategic Solution Partners","PA",2380183,1,"Travel & Hospitality","Philadelphia",-75.3082,39.96,NA,0,0,0
+"74",1329,2016,1405,"Conshohocken",271.589,64,"Think Company","PA",9742801,5,"IT Services","Philadelphia",-75.3051,40.07,NA,0,0,0
+"75",1420,2016,3858,"Plymouth Meeting",77.6647,14,"Alura Business Solutions","PA",2739868,3,"IT Services","Philadelphia",-75.2988,40.13,NA,0,0,0
+"76",1365,2016,2181,"Conshohocken",168.6338,48,"Square 2 Marketing","PA",5286045,3,"Advertising & Marketing","Philadelphia",-75.2878,40.08,NA,0,0,0
+"77",1460,2016,4617,"Blue Bell",52.5039,34,"Gen3 Marketing","PA",7054916,3,"Advertising & Marketing","Philadelphia",-75.2849,40.15,NA,0,0,0
+"78",1471,2016,4847,"Blue Bell",45.509,65,"Halfpenny Technologies","PA",8309768,2,"Health","Philadelphia",-75.2848,40.15,NA,0,0,0
+"79",1378,2016,2650,"Plymouth Meeting",132.9353,650,"Accolade","PA",74707000,4,"Health","Philadelphia",-75.2846,40.12,NA,0,0,0
+"80",1348,2016,1797,"folsom",206.8613,30,"joseph giannone heating and air conditioning","PA",3427460,2,"Construction","Philadelphia",-75.2775,39.89,NA,0,0,0
+"81",1404,2016,3378,"Conshohocken",96.9265,32,"CSG Global(1)","PA",9719085,4,"IT Services","Philadelphia",-75.2735,40.11,NA,0,0,0
+"82",1405,2016,3408,"North Wales",95.7791,240,"Saturn Infotech","PA",18150200,4,"IT Services","Philadelphia",-75.2615,40.23,NA,0,0,0
+"83",1461,2016,4665,"Narberth",51.0261,22,"Millennium Surgical","PA",10489400,4,"Health","Philadelphia",-75.2586,40.01,NA,0,0,0
+"84",1452,2016,4530,"Plymouth Meeting",55.2262,53,"Therapy Source","PA",24685935,9,"Health","Philadelphia",-75.2558,40.12,NA,0,0,0
+"85",1367,2016,2212,"Narberth",165.6274,6,"Fun and Function","PA",5483609,5,"Retail","Philadelphia",-75.2376,40,NA,0,0,0
+"86",1403,2016,3281,"Bala Cynwyd",101.281,253,"Hamilton Lane Advisors","PA",222050490,2,"Financial Services","Philadelphia",-75.2207,40.01,NA,0,0,0
+"87",1324,2016,1170,"Easton",332.2213,22,"MGN Logistics","PA",18868427,4,"Logistics & Transportation","Philadelphia",-75.2186,40.69,NA,0,0,0
+"88",1366,2016,2207,"Philadelphia",166.0991,54,"Delphic Digital","PA",6321669,3,"Advertising & Marketing","Philadelphia",-75.2183,40.02,NA,0,0,0
+"89",1477,2016,4922,"Fort Washington",43.0037,65,"Magic Hat Consulting","PA",12846213,6,"Business Products & Services","Philadelphia",-75.208,40.14,NA,0,0,0
+"90",1476,2016,4921,"Maple Glen",43.0517,50,"Centennial Lending Group","PA",8788961,3,"Financial Services","Philadelphia",-75.184,40.21,NA,0,0,0
+"91",1311,2016,629,"Philadelphia",615.2151,230,"Saxbys(2)","PA",5657323,2,"Food & Beverage","Philadelphia",-75.182,39.96,NA,0,0,0
+"92",1437,2016,4202,"Fort Washington",65.1125,200,"SofterWare","PA",47346000,9,"Software","Philadelphia",-75.1758,40.14,NA,0,0,0
+"93",1385,2016,2820,"Philadelphia",123.7271,100,"Medical Guardian(2)","PA",12416565,5,"Health","Philadelphia",-75.1721,39.95,NA,0,0,0
+"94",1332,2016,1519,"Philadelphia",249.2673,43,"Pine Hill Group","PA",18464219,4,"Financial Services","Philadelphia",-75.171,39.95,NA,0,0,0
+"95",1385,2016,2820,"Philadelphia",123.7271,100,"Medical Guardian(1)","PA",12416565,5,"Health","Philadelphia",-75.1703,39.95,NA,0,0,0
+"96",1391,2016,3037,"Philadelphia",112.5511,65,"NorthStar Solutions Group","PA",9911618,7,"Business Products & Services","Philadelphia",-75.17,39.96,NA,0,0,0
+"97",1443,2016,4421,"Philadelphia",58.4864,66,"Professional Capital Services","PA",11451745,10,"Financial Services","Philadelphia",-75.1693,39.95,NA,0,0,0
+"98",1455,2016,4534,"Philadelphia",55.1537,124,"Customized Energy Solutions(2)","PA",26041000,10,"Energy","Philadelphia",-75.1684,39.96,NA,0,0,0
+"99",1455,2016,4534,"Philadelphia",55.1537,124,"Customized Energy Solutions(1)","PA",26041000,10,"Energy","Philadelphia",-75.1671,39.95,NA,0,0,0
+"100",1350,2016,1864,"Philadelphia",199.6826,36,"Philly Living","PA",4203849,2,"Real Estate","Philadelphia",-75.1661,39.94,NA,0,0,0
+"101",1319,2016,924,"Philadelphia",432.762,9,"Juno Search Partners","PA",3599111,3,"Human Resources","Philadelphia",-75.1605,39.95,NA,0,0,0
+"102",1394,2016,3107,"Philadelphia",109.4945,57,"Graboyes Commercial Window Co.","PA",14061900,2,"Construction","Philadelphia",-75.1501,39.96,NA,0,0,0
+"103",1419,2016,3834,"Philadelphia",78.7468,50,"Exude","PA",7691996,7,"Insurance","Philadelphia",-75.1474,39.95,NA,0,0,0
+"104",1337,2016,1619,"Harrisburg",232.378,83,"WebpageFX","PA",11441965,5,"Advertising & Marketing","Harrisburg-Carlisle, PA",-75.1471,39.95,NA,0,0,0
+"105",1318,2016,884,"Philadelphia",450.859,66,"Tonic Design Co","PA",7139215,2,"Software","Philadelphia",-75.1468,39.96,NA,0,0,0
+"106",1301,2016,290,"Philadelphia",1354.2999,25,"Arcweb Technologies","PA",3890543,2,"Software","Philadelphia",-75.1452,39.95,NA,0,0,0
+"107",1441,2016,4382,"Malvern",59.6847,135,"Stream Companies(1)","PA",42440324,10,"Advertising & Marketing","Philadelphia",-75.1448,39.95,NA,0,0,0
+"108",1325,2016,1207,"Horsham",323.7656,45,"Swain Techs","PA",6187656,3,"IT Services","Philadelphia",-75.1438,40.17,NA,0,0,0
+"109",1392,2016,3059,"Philadelphia",111.5582,28,"Trinity Insight","PA",2725086,4,"Advertising & Marketing","Philadelphia",-75.1422,39.95,NA,0,0,0
+"110",1380,2016,2688,"Philadelphia",130.5335,105,"Seer Interactive","PA",12154213,3,"Advertising & Marketing","Philadelphia",-75.1398,39.97,NA,0,0,0
+"111",1383,2016,2758,"Philadelphia",126.8938,39,"John Pomp Studios","PA",5326748,4,"Manufacturing","Philadelphia",-75.1366,39.98,NA,0,0,0
+"112",1382,2016,2744,"Philadelphia",127.6596,42,"Bluecadet","PA",3638000,1,"Advertising & Marketing","Philadelphia",-75.134,39.97,NA,0,0,0
+"113",1376,2016,2542,"Ambridge",139.5064,9,"I.C.E. Service Group","PA",12233286,4,"Logistics & Transportation","Pittsburgh, PA",-75.1042,40.01,NA,0,0,0
+"114",1457,2016,4574,"Bryn Mawr",53.8067,43,"Visiting Angels(2)","PA",23087347,4,"Health","Philadelphia",-75.1036,40.31,NA,0,0,0
+"115",1334,2016,1538,"Willow Grove",247.3522,155,"Azzur Group","PA",23480694,5,"Health","Philadelphia",-75.1018,40.17,NA,0,0,0
+"116",1310,2016,622,"Philadelphia",626.3703,11,"Lamps.com","PA",4485816,2,"Retail","Philadelphia",-75.0759,40.02,NA,0,0,0
+"117",1440,2016,4373,"Trevose",59.8595,56,"Alpha Card Services","PA",26306705,9,"Financial Services","Philadelphia",-75.0564,40.03,NA,0,0,0
+"118",1393,2016,3070,"King of Prussia",110.8075,850,"DataBank IMX","PA",99254343,3,"IT Services","Philadelphia",-75.0242,40.15,NA,0,0,0
+"119",1369,2016,2317,"Philadephia",156.5475,120,"Rush Order Tees","PA",22895112,1,"Consumer Products & Services","Philadelphia",-74.9797,40.11,NA,0,0,0
+"120",1475,2016,4913,"Trevose",43.4401,256,"Data Systems Analysts","PA",129647362,9,"Government Services","Philadelphia",-74.9787,40.12,NA,0,0,0
+"121",1363,2016,2133,"Trevose",174.3881,31,"World Wide Land Transfer","PA",5546492,3,"Real Estate","Philadelphia",-74.9787,40.12,NA,0,0,0
+"122",1357,2016,1970,"New Hope",188.4758,15,"Marketeching Solutions(1)","PA",3916209,3,"Advertising & Marketing","Philadelphia",-74.9651,40.36,NA,0,0,0
+"123",1357,2016,1970,"New Hope",188.4758,15,"Marketeching Solutions(2)","PA",3916209,3,"Advertising & Marketing","Philadelphia",-74.9531,40.36,NA,0,0,0
+"124",1406,2016,3494,"Langhorne",90.9035,12,"Vincodo","PA",3106000,2,"Advertising & Marketing","Philadelphia",-74.8803,40.18,NA,0,0,0
+"125",1342,2016,1714,"Philadelphia",217.0419,78,"TargetX.com","PA",11141457,7,"Advertising & Marketing","Philadelphia",-74.8549,40.1,NA,0,0,0
+"126",1444,2016,4422,"Bristol",58.4778,40,"1SEO.com Digital Agency","PA",4767747,4,"Advertising & Marketing","Philadelphia",-74.8417,40.1,NA,0,0,0
+"127",1118,2015,794,"Pittsburgh",560.1174,180,"4moms(2)","PA",43722044,5,"Consumer Products & Services","Pittsburgh, PA",-79.9982,40.44,NA,0,0,0
+"128",1118,2015,794,"Pittsburgh",560.1174,180,"4moms(1)","PA",43722044,5,"Consumer Products & Services","Pittsburgh, PA",-79.9823,40.46,NA,0,0,0
+"129",1169,2015,2176,"Pittsburgh",179.8823,72,"Gatesman+Dave","PA",55936070,3,"Advertising & Marketing","Pittsburgh, PA",-79.9658,40.43,NA,0,0,0
+"130",1265,2015,4416,"Allison Park",60.0765,58,"Softwriters(1)","PA",20059073,9,"Health","Pittsburgh, PA",-79.9586,40.56,NA,0,0,0
+"131",1123,2015,969,"Pittsburgh",458.7615,8,"Cold Spark Media","PA",2740010,1,"Advertising & Marketing","Pittsburgh, PA",-79.9333,40.45,NA,0,0,0
+"132",1143,2015,1440,"Monroeville",287.1541,64,"Regulatory & Quality Solutions","PA",12366623,2,"Business Products & Services","Pittsburgh, PA",-79.7584,40.44,NA,0,0,0
+"133",1178,2015,2371,"Port Matilda",160.2815,79,"Mission Critical Partners","PA",15735055,2,"Business Products & Services","State College, PA",-77.9401,40.81,NA,0,0,0
+"134",1228,2015,3566,"Middletown",88.9148,12,"Soccer Shots Franchising","PA",2547847,4,"Education","Harrisburg-Carlisle, PA",-76.793,40.22,NA,0,0,0
+"135",1260,2015,4289,"Harrisburg",63.6412,4500,"Ollie?s Bargain Outlet Holdings","PA",637975000,1,"Retail","Harrisburg-Carlisle, PA",-76.7822,40.32,NA,0,0,0
+"136",1268,2015,4453,"Lancaster",58.824,110,"Charter Homes & Neighborhoods(2)","PA",88238790,1,"Real Estate","Lancaster, PA",-76.3229,40.08,NA,0,0,0
+"137",1268,2015,4453,"Lancaster",58.824,110,"Charter Homes & Neighborhoods(1)","PA",88238790,1,"Real Estate","Lancaster, PA",-76.3174,40.06,NA,0,0,0
+"138",1180,2015,2397,"Lancaster",157.935,98,"Primitives by Kathy","PA",47491000,4,"Consumer Products & Services(2)","Lancaster, PA",-76.2542,40.05,NA,0,0,0
+"139",1180,2015,2397,"Lancaster",157.935,98,"Primitives by Kathy","PA",47491000,4,"Consumer Products & Services(1)","Lancaster, PA",-76.2444,40.05,NA,0,0,0
+"140",1261,2015,4297,"Reading",63.4352,80,"AR Logix","PA",6126746,1,"Health","Reading, PA",-75.9392,40.41,NA,0,0,0
+"141",1176,2015,2259,"Elverson",172.2333,150,"Stell Environmental","PA",15477706,1,"Environmental Services","Philadelphia",-75.8315,40.16,NA,0,0,0
+"142",1130,2015,1121,"Pottstown",382.3004,38,"Agape Precision Manufacturing","PA",4668041,1,"Manufacturing","Philadelphia",-75.6678,40.26,NA,0,0,0
+"143",1256,2015,4207,"Chadds Ford",66.0295,14,"Dorset Connects","PA",2482357,1,"IT Services","Philadelphia",-75.5918,39.87,NA,0,0,0
+"144",1251,2015,4091,"Malvern",69.5173,191,"Frontline Technologies","PA",35062509,1,"Education","Philadelphia",-75.5286,40.07,NA,0,0,0
+"145",1241,2015,3888,"State College",76.9297,170,"Schoolwires","PA",21560200,9,"Education","State College, PA",-75.5134,39.87,NA,0,0,0
+"146",1128,2015,1086,"Berwyn",396.9287,12,"Prepay Nation","PA",112079146,2,"Financial Services","Philadelphia",-75.4675,40.06,NA,0,0,0
+"147",1238,2015,3844,"Allentown",78.827,103,"INetU","PA",26981917,1,"IT Services","Allentown-Bethlehem-Easton, PA-NJ",-75.4577,40.64,NA,0,0,0
+"148",1259,2015,4269,"Conshohocken",64.064,33,"PennFleet","PA",2624654,2,"Business Products & Services","Philadelphia",-75.4292,39.84,NA,0,0,0
+"149",1274,2015,4506,"Wayne",57.6496,48,"Prime Technology Group(1)","PA",10856012,7,"IT Services","Philadelphia",-75.4269,40.07,NA,0,0,0
+"150",1266,2015,4436,"Radnor",59.4844,119,"Global Tax Management(2)","PA",24135957,1,"Financial Services","Philadelphia",-75.4143,40.08,NA,0,0,0
+"151",1274,2015,4506,"Wayne",57.6496,48,"Prime Technology Group(2)","PA",10856012,7,"IT Services","Philadelphia",-75.4133,40.1,NA,0,0,0
+"152",1234,2015,3722,"Newtown Square",82.9089,166,"CIS","PA",27591030,6,"Business Products & Services","Philadelphia",-75.4117,39.99,NA,0,0,0
+"153",1208,2015,2966,"Aston",117.993,48,"New Way Air Bearings","PA",15024537,4,"Manufacturing","Philadelphia",-75.4069,39.85,NA,0,0,0
+"154",1207,2015,2936,"Newtown Square",120.2024,35,"PPT Consulting","PA",4801250,1,"IT Services","Philadelphia",-75.4039,40.02,NA,0,0,0
+"155",1183,2015,2478,"King of Prussia",151.4639,102,"CardConnect","PA",389690455,2,"Financial Services","Philadelphia",-75.3985,40.08,NA,0,0,0
+"156",1186,2015,2593,"Wayne",142.5501,28,"Pathfinders","PA",7607027,6,"Human Resources","Philadelphia",-75.3942,40.04,NA,0,0,0
+"157",1266,2015,4436,"Radnor",59.4844,119,"Global Tax Management(1)","PA",24135957,1,"Financial Services","Philadelphia",-75.3654,40.04,NA,0,0,0
+"158",1171,2015,2209,"West Lawn",177.0478,35,"Omega Systems Consultants","PA",10696388,1,"IT Services","Reading, PA",-75.3408,40.09,NA,0,0,0
+"159",1136,2015,1280,"Norristown",325.5356,17,"McDonald Building Company","PA",23551507,1,"Construction","Philadelphia",-75.3267,40.11,NA,0,0,0
+"160",1288,2015,4868,"Blue Bell",47.2569,200,"Anexinet(2)","PA",105299000,8,"IT Services","Philadelphia",-75.3048,40.14,NA,0,0,0
+"161",1284,2015,4753,"Bethlehem",50.3644,47,"Rotating Machinery Services","PA",20699486,7,"Engineering","Allentown-Bethlehem-Easton, PA-NJ",-75.2971,40.66,NA,0,0,0
+"162",1270,2015,4470,"Perkasie",58.3868,7,"PowerOne","PA",2303056,2,"Advertising & Marketing","Philadelphia",-75.295,40.37,NA,0,0,0
+"163",1129,2015,1089,"Plymouth Meeting",396.4288,58,"Audience Partners","PA",23133000,2,"Advertising & Marketing","Philadelphia",-75.2844,40.12,NA,0,0,0
+"164",1271,2015,4477,"Blue Bell",58.2566,854,"McGrath Systems","PA",10649561,3,"Human Resources","Philadelphia",-75.2801,40.14,NA,0,0,0
+"165",1224,2015,3395,"Conshohocken",96.9081,34,"CSG Global","PA",9719085,4,"IT Services","Philadelphia",-75.2729,40.11,NA,0,0,0
+"166",1288,2015,4868,"Blue Bell",47.2569,200,"Anexinet(1)","PA",105299000,8,"IT Services","Philadelphia",-75.2716,40.13,NA,0,0,0
+"167",1202,2015,2854,"Philadelphia",125.4682,47,"Intuitive Company","PA",9482762,3,"Software","Philadelphia",-75.222,40.02,NA,0,0,0
+"168",1170,2015,2206,"Philadelphia",177.2772,65,"CorpU","PA",4915587,1,"Education","Philadelphia",-75.18,39.95,NA,0,0,0
+"169",1103,2015,229,"Philadelphia",1906.7319,40,"Environmental Construction Services","PA",7340525,1,"Construction","Philadelphia",-75.1758,39.89,NA,0,0,0
+"170",1113,2015,603,"Philadelphia",760.0387,12,"Payrollshopping.com","PA",2594513,1,"Business Products & Services","Philadelphia",-75.1613,39.95,NA,0,0,0
+"171",1196,2015,2721,"Horsham",134.1161,285,"LRA Worldwide","PA",36790960,3,"Business Products & Services","Philadelphia",-75.1525,40.16,NA,0,0,0
+"172",1291,2015,4945,"Fort Washington",44.6887,56,"IT Solutions Consulting","PA",11703032,8,"IT Services","Philadelphia",-75.1503,39.96,NA,0,0,0
+"173",1226,2015,3458,"Dresher",93.4429,1430,"Ascensus","PA",275099000,2,"Financial Services","Philadelphia",-75.147,40.16,NA,0,0,0
+"174",1294,2015,4998,"Philadelphia",43.2366,7,"Chorus Communications","PA",3336176,2,"Telecommunications","Philadelphia",-75.1444,39.95,NA,0,0,0
+"175",1115,2015,672,"Wyncote",670.1339,12,"GLOBO","PA",2109027,3,"Business Products & Services","Philadelphia",-75.1409,40.09,NA,0,0,0
+"176",1273,2015,4492,"Horsham",57.9154,63,"Dudnyk","PA",19272000,2,"Advertising & Marketing","Philadelphia",-75.1408,40.17,NA,0,0,0
+"177",1100,2015,57,"Horsham",4613.7719,98,"Clinical Ink","PA",5932989,2,"Health","Philadelphia",-75.1306,40.17,NA,0,0,0
+"178",1253,2015,4135,"Elkins Park",68.3297,36,"CETRA Language Solutions","PA",6883000,8,"Business Products & Services","Philadelphia",-75.1266,40.07,NA,0,0,0
+"179",1104,2015,284,"Bethlem",1634.8897,10,"LiveHelpNow","PA",2141756,3,"Software","Allentown-Bethlehem-Easton, PA-NJ",-75.1152,40.16,NA,0,0,0
+"180",1262,2015,4312,"Hatboro",63.0556,70,"Benjamin Foods(2)","PA",70072219,3,"Food & Beverage","Philadelphia",-75.1091,40.16,NA,0,0,0
+"181",1285,2015,4789,"Hatboro",49.6046,110,"Linda's Stuff","PA",19158930,1,"Retail","Philadelphia",-75.1011,40.17,NA,0,0,0
+"182",1262,2015,4312,"Hatboro",63.0556,70,"Benjamin Foods(3)","PA",70072219,3,"Food & Beverage","Philadelphia",-75.0513,40.17,NA,0,0,0
+"183",1262,2015,4312,"Hatboro",63.0556,70,"Benjamin Foods(1)","PA",70072219,3,"Food & Beverage","Philadelphia",-75.0388,40.11,NA,0,0,0
+"184",1233,2015,3668,"Malvern",84.7276,24,"Precision Mechanical Services","PA",5300000,1,"Business Products & Services","Philadelphia",-74.9945,40.05,NA,0,0,0
+"185",1219,2015,3351,"Newtown",98.8376,71,"Optimal Strategix Group","PA",13043816,6,"Advertising & Marketing","Philadelphia",-74.9186,40.22,NA,0,0,0
+"186",1290,2015,4938,"Langhorne",44.8744,14,"GPS North America","PA",4275819,1,"Logistics & Transportation","Philadelphia",-74.9083,40.22,NA,0,0,0
+"187",1108,2015,500,"Morrisville",912.5984,45,"WeVeel","PA",10288000,2,"Consumer Products & Services","Philadelphia",-74.7755,40.21,NA,0,0,0
+"188",1015,2014,2998,"Pittsburgh",119.291,15,"Z Brand Group","PA",3067705,2,"Advertising & Marketing","Pittsburgh, PA",-79.9952,40.44,NA,0,0,0
+"189",931,2014,627,"Pittsburgh",744.3667,175,"Branding Brand","PA",12130721,2,"Software","Pittsburgh, PA",-79.9724,40.43,NA,0,0,0
+"190",1004,2014,2730,"Export",137.0437,190,"PRISM Response","PA",21334019,1,"Environmental Services","Pittsburgh, PA",-79.598,40.4,NA,0,0,0
+"191",1021,2014,3150,"Indiana",111.4589,74,"Environmental Service Laboratories","PA",7535741,2,"Environmental Services","Indiana, PA",-79.0755,40.05,NA,0,0,0
+"192",1022,2014,3151,"Somerset",111.4443,251,"Somerset Regional Water Resources","PA",73097031,1,"Energy","Somerset, PA",-79.0541,40.02,NA,0,0,0
+"193",932,2014,654,"New Oxford",703.4112,25,"AllPure Technologies","PA",2944992,1,"Manufacturing","Philadelphia",-77.0221,39.87,NA,0,0,0
+"194",1096,2014,4939,"Allentown",44.3599,35,"Eastern Time","PA",5304523,1,"Security","Allentown-Bethlehem-Easton, PA-NJ",-76.9878,40.17,NA,0,0,0
+"195",1008,2014,2807,"Montoursville",131.5586,25,"Sage Age Strategies(2)","PA",4519854,1,"Advertising & Marketing","Williamsport, PA",-76.9268,41.25,NA,0,0,0
+"196",1008,2014,2807,"Montoursville",131.5586,25,"Sage Age Strategies(1)","PA",4519854,1,"Advertising & Marketing","Williamsport, PA",-76.8943,41.25,NA,0,0,0
+"197",1087,2014,4738,"Harrisburg",50.624,132,"Journal Multimedia(1)","PA",20155000,7,"Media","Harrisburg-Carlisle, PA",-76.8835,40.29,NA,0,0,0
+"198",960,2014,1461,"Harrisburg",292.7318,32,"Red Privet","PA",2722747,1,"Business Products & Services","Harrisburg-Carlisle, PA",-76.8788,40.26,NA,0,0,0
+"199",958,2014,1329,"Harrisburg",324.284,64,"Ritter Insurance Marketing","PA",21393912,3,"Insurance","Harrisburg-Carlisle, PA",-76.8439,40.31,NA,0,0,0
+"200",1087,2014,4738,"Harrisburg",50.624,132,"Journal Multimedia(2)","PA",20155000,7,"Media","Harrisburg-Carlisle, PA",-76.728,39.96,NA,0,0,0
+"201",1039,2014,3588,"Lancaster",90.6501,173,"Smilebuilderz(1)","PA",17383100,4,"Health","Lancaster, PA",-76.3205,40.07,NA,0,0,0
+"202",1083,2014,4669,"Lititz",52.7124,83,"The Benecon Group","PA",26744447,8,"Insurance","Lancaster, PA",-76.303,40.11,NA,0,0,0
+"203",1039,2014,3588,"Lancaster",90.6501,173,"Smilebuilderz(2)","PA",17383100,4,"Health","Lancaster, PA",-76.1532,40.16,NA,0,0,0
+"204",1034,2014,3556,"Reading",91.9445,45,"Suburban Testing Labs","PA",3511749,1,"Environmental Services","Reading, PA",-75.9201,40.4,NA,0,0,0
+"205",1019,2014,3094,"Exton",114.7142,30,"Savantis Group(2)","PA",8303000,1,"IT Services","Philadelphia",-75.6852,40.06,NA,0,0,0
+"206",1075,2014,4399,"Chester Springs",61.3718,15,"CB Transportation","PA",16756799,4,"Logistics & Transportation","Philadelphia",-75.6548,40.12,NA,0,0,0
+"207",1066,2014,4275,"Exton",65.579,79,"Education Management Solutions","PA",19379156,8,"Education","Philadelphia",-75.6522,40.02,NA,0,0,0
+"208",1025,2014,3340,"Pottstown",100.621,45,"VideoRay","PA",12922000,2,"Manufacturing","Reading, PA",-75.6502,40.25,NA,0,0,0
+"209",1086,2014,4726,"Altoona",51.0218,390,"Blair Companies","PA",68360000,3,"Manufacturing","Altoona, PA",-75.613,39.94,NA,0,0,0
+"210",1019,2014,3094,"Exton",114.7142,30,"Savantis Group(1)","PA",8303000,1,"IT Services","Philadelphia",-75.6011,40.03,NA,0,0,0
+"211",1090,2014,4803,"Exton",48.5676,307,"Frontage Laboratories","PA",35836000,2,"Health","Philadelphia",-75.5472,40.06,NA,0,0,0
+"212",993,2014,2417,"Malvern",159.0402,25,"CRM Manager","PA",3547781,1,"IT Services","Philadelphia",-75.5336,40.06,NA,0,0,0
+"213",1089,2014,4801,"Malvern",48.6461,104,"Akcelerant Software","PA",15667060,3,"Financial Services","Philadelphia",-75.5282,40.05,NA,0,0,0
+"214",974,2014,1952,"Philadelphia",208.0198,85,"Magellan Search & Staffing","PA",8104000,3,"Human Resources","Philadelphia",-75.4139,40.09,NA,0,0,0
+"215",986,2014,2296,"King of Prussia",169.6034,122,"Beyond.com","PA",35620000,5,"Human Resources","Philadelphia",-75.4097,40.1,NA,0,0,0
+"216",1098,2014,4985,"Quakertown",42.8976,11,"Demco Automation","PA",2245082,1,"Manufacturing","Philadelphia",-75.3842,40.44,NA,0,0,0
+"217",1071,2014,4311,"King of Prussia",64.5502,53,"Liberty Personnel Services","PA",8525735,5,"Human Resources","Philadelphia",-75.3383,40.09,NA,0,0,0
+"218",1097,2014,4969,"Conshohocken",43.5599,11,"Pediatric Therapeutic Services","PA",9864000,8,"Education","Philadelphia",-75.3021,40.08,NA,0,0,0
+"219",1061,2014,4201,"King of Prussia",68.0431,183,"Health Market Science","PA",40458508,5,"IT Services","Philadelphia",-75.2981,40.1,NA,0,0,0
+"220",1076,2014,4405,"Pittsburgh",61.2384,365,"AIReS(2)","PA",242326296,6,"Logistics & Transportation","Pittsburgh, PA",-75.2955,40.28,NA,0,0,0
+"221",939,2014,859,"Plymouth Meeting",525.4941,25,"The FlexPro Group","PA",6330000,3,"Health","Philadelphia",-75.2857,40.12,NA,0,0,0
+"222",1076,2014,4405,"Pittsburgh",61.2384,365,"AIReS(1)","PA",242326296,6,"Logistics & Transportation","Pittsburgh, PA",-75.2821,40.33,NA,0,0,0
+"223",1092,2014,4843,"Blue Bell",47.5063,87,"Fesnak","PA",10534900,3,"Financial Services","Philadelphia",-75.2786,40.13,NA,0,0,0
+"224",1030,2014,3531,"Sharon Hill",92.9924,89,"Nathan Sports","PA",23244000,3,"Consumer Products & Services","Philadelphia",-75.2606,39.91,NA,0,0,0
+"225",1059,2014,4157,"North Wales",69.501,52,"Compliance Management International(2)","PA",6636007,2,"Environmental Services","Philadelphia",-75.2343,40.21,NA,0,0,0
+"226",1059,2014,4157,"North Wales",69.501,52,"Compliance Management International(3)","PA",6636007,2,"Environmental Services","Philadelphia",-75.2303,40.22,NA,0,0,0
+"227",1059,2014,4157,"North Wales",69.501,52,"Compliance Management International(1)","PA",6636007,2,"Environmental Services","Philadelphia",-75.2289,40.18,NA,0,0,0
+"228",1081,2014,4648,"East Stroudsburg",53.4528,67,"Vigon International(2)","PA",85358525,7,"Manufacturing","East Stroudsburg, PA",-75.1937,40.99,NA,0,0,0
+"229",1023,2014,3231,"Philadelphia",107.285,14,"Context Travel","PA",4487922,4,"Travel & Hospitality","Philadelphia",-75.18,39.95,NA,0,0,0
+"230",1081,2014,4648,"East Stroudsburg",53.4528,67,"Vigon International(1)","PA",85358525,7,"Manufacturing","East Stroudsburg, PA",-75.1561,41.03,NA,0,0,0
+"231",1035,2014,3561,"Philadelphia",91.5637,5,"Barzilay Development","PA",2042923,1,"Real Estate","Philadelphia",-75.1423,39.97,NA,0,0,0
+"232",1088,2014,4762,"Camp Hill",49.8663,43,"Momentum","PA",8959205,4,"Government Services","Harrisburg-Carlisle, PA",-75.1394,40.05,NA,0,0,0
+"233",1065,2014,4270,"Doylestown",65.6882,15,"Alliance Adjustment Group","PA",4312343,1,"Insurance","Philadelphia",-75.1303,40.32,NA,0,0,0
+"234",999,2014,2570,"Trevose",146.5076,23,"Contour Data Solutions","PA",9753602,4,"IT Services","Philadelphia",-74.9787,40.12,NA,0,0,0
+"235",921,2014,360,"Bristol",1319.6092,10,"WebEyeCare","PA",9513000,2,"Retail","Philadelphia",-74.8549,40.1,NA,0,0,0
+"236",857,2013,3575,"McKeesport",84.8612,126,"AEC Group","PA",41701000,3,"IT Services","Pittsburgh, PA",-79.8443,40.35,NA,0,0,0
+"237",785,2013,1473,"New Kensington",270.7642,138,"Geo-Solutions","PA",34546700,5,"Construction","Pittsburgh, PA",-79.7662,40.57,NA,0,0,0
+"238",827,2013,2465,"Ebensburg",145.3081,62,"Gittings Private Investigations & Security","PA",2353209,1,"Security","Johnstown, PA",-78.7247,40.49,NA,0,0,0
+"239",870,2013,3870,"State College",72.5721,77,"Videon Central","PA",12576078,4,"Consumer Products & Services","State College, PA",-77.9037,40.78,NA,0,0,0
+"240",833,2013,2722,"Newtown",128.3308,100,"IFG Mortgage","PA",17533872,3,"Financial Services","Philadelphia",-76.9427,40.24,NA,0,0,0
+"241",788,2013,1582,"Philadelphia",250.7305,22,"Gibraltar IT","PA",2224529,1,"IT Services","Philadelphia",-76.8692,40.14,NA,0,0,0
+"242",828,2013,2473,"Bloomsburg",144.9048,64,"OPTiMO Information Technology","PA",8098325,1,"IT Services","Bloomsburg-Berwick, PA",-76.4577,41,NA,0,0,0
+"243",849,2013,3267,"Hegins",97.9301,47,"Ashland Technologies","PA",6157088,5,"Manufacturing","Pottsville, PA",-76.4338,40.65,NA,0,0,0
+"244",892,2013,4610,"Wyomissing",47.1709,135,"Distributed Systems Services","PA",36724482,1,"IT Services","Reading, PA",-75.988,40.35,NA,0,0,0
+"245",861,2013,3650,"Pittsburgh",81.6354,10800,"Genco","PA",1475639000,5,"Logistics & Transportation","Pittsburgh, PA",-75.7016,40.58,NA,0,0,0
+"246",898,2013,4759,"Malvern",42.2697,35,"Aavalar Consulting","PA",4612984,3,"IT Services","Philadelphia",-75.5778,40.04,NA,0,0,0
+"247",831,2013,2691,"Allentown",130.1893,75,"Trifecta Technologies","PA",12802567,2,"Software","Allentown-Bethlehem-Easton, PA-NJ",-75.47,40.6,NA,0,0,0
+"248",901,2013,4786,"Boothwyn",41.4535,92,"Nielsen-Kellerman","PA",13085872,4,"Consumer Products & Services","Philadelphia",-75.4648,39.86,NA,0,0,0
+"249",850,2013,3299,"Wayne",96.2971,75,"Focus Forward","PA",5018295,3,"Advertising & Marketing","Philadelphia",-75.4289,40.07,NA,0,0,0
+"250",863,2013,3696,"Bethlehem",79.7696,44,"Puritan Products","PA",21840423,5,"Manufacturing","Allentown-Bethlehem-Easton, PA-NJ",-75.4268,40.65,NA,0,0,0
+"251",804,2013,2110,"Audubon",176.7059,80,"CFS Clinical","PA",11011657,1,"Health","Philadelphia",-75.4134,40.12,NA,0,0,0
+"252",794,2013,1854,"King of Prussia",205.7584,139,"QuadGen Wireless Solutions","PA",16123918,3,"Telecommunications","Philadelphia",-75.4002,40.08,NA,0,0,0
+"253",883,2013,4256,"Conshohocken",58.6875,23,"Decision Strategies International","PA",10156000,4,"Business Products & Services","Philadelphia",-75.3088,40.07,NA,0,0,0
+"254",842,2013,3073,"Plymouth Meeting",108.4305,51,"Arraya Solutions","PA",34645428,1,"IT Services","Philadelphia",-75.2972,40.11,NA,0,0,0
+"255",772,2013,1126,"Conshohocken",371.9471,7,"Pathology Lab Solutions","PA",2055962,1,"Health","Philadelphia",-75.2962,40.07,NA,0,0,0
+"256",822,2013,2385,"Ardmore",151.4234,99,"Double Prime","PA",19342000,1,"IT Services","Philadelphia",-75.2922,40.01,NA,0,0,0
+"257",885,2013,4421,"Blue Bell",53.0068,26,"MayoSeitz Media","PA",39471787,2,"Advertising & Marketing","Philadelphia",-75.2857,40.14,NA,0,0,0
+"258",812,2013,2271,"Chalfont",161.0204,55,"Matcor","PA",24622154,4,"Manufacturing","Philadelphia",-75.2491,40.28,NA,0,0,0
+"259",881,2013,4202,"Norristown",60.8253,47,"Adaptive Solutions","PA",8223000,7,"IT Services","Philadelphia",-75.1703,39.95,NA,0,0,0
+"260",903,2013,4813,"Erdenheim",40.4997,55,"Griswold Home Care","PA",12164460,2,"Health",NA,-75.1372,40.24,NA,0,0,0
+"261",907,2013,4904,"Warrington",37.4907,38,"KMRD Partners","PA",17991193,5,"Insurance","Philadelphia",-75.1332,40.26,NA,0,0,0
+"262",839,2013,2982,"Southampton",113.2126,22,"IMET","PA",2665266,1,"Manufacturing","Philadelphia",-75.0425,40.17,NA,0,0,0
+"263",895,2013,4684,"Langhorne",44.9385,58,"Dyventive","PA",8785016,3,"Business Products & Services","Philadelphia",-74.8991,40.18,NA,0,0,0
+"264",614,2012,1279,"Pittsburgh",241.4588,60,"RE2","PA",7574573,3,"Engineering","Pittsburgh, PA",-79.9581,40.48,NA,0,0,0
+"265",736,2012,4605,"Gibsonia",18.3309,37,"Knichel Logistics","PA",41268334,5,"Logistics & Transportation","Pittsburgh, PA",-79.9463,40.62,NA,0,0,0
+"266",616,2012,1327,"Philadelphia",232.096,2970,"Five Below","PA",297113000,1,"Retail","Philadelphia",-79.9441,40.33,NA,0,0,0
+"267",732,2012,4531,"Pittsburgh",20.2345,17,"NET Xperts","PA",3028436,2,"IT Services","Pittsburgh, PA",-79.8653,40.43,NA,0,0,0
+"268",654,2012,2618,"North Versailles",90.967,38,"Ideal Integrations","PA",10322339,4,"IT Services","Pittsburgh, PA",-79.7782,40.38,NA,0,0,0
+"269",721,2012,4229,"Bedford",29.3709,270,"Bedford Reinforced Plastics","PA",53114322,3,"Manufacturing","n/a",-78.5298,40.1,NA,0,0,0
+"270",704,2012,3858,"State College",40.5502,39,"EnergyCAP","PA",5185060,5,"Software","State College, PA",-77.9011,40.79,NA,0,0,0
+"271",676,2012,2997,"Harrisburg",72.7576,270,"National Recovery Agency & American Agencies","PA",55270397,6,"Financial Services","Harrisburg-Carlisle, PA",-76.8455,40.25,NA,0,0,0
+"272",698,2012,3641,"Harrisburg",48.4037,220,"U-Gro Learning Centres","PA",9003316,4,"Education","Harrisburg-Carlisle, PA",-76.8208,40.25,NA,0,0,0
+"273",651,2012,2552,"West Chester",94.4576,11,"Timothy Off Heating & Air Conditioning","PA",2127730,1,"Construction","Philadelphia",-75.5933,39.97,NA,0,0,0
+"274",729,2012,4427,"Chadds Ford",23.6495,6,"Proforma Print Marketing","PA",2060000,2,"Business Products & Services","Philadelphia",-75.5495,39.88,NA,0,0,0
+"275",683,2012,3181,"Allentown",65.1207,129,"Lehigh Gas(1)","PA",1628760000,1,"Energy","Allentown-Bethlehem-Easton, PA-NJ",-75.4712,40.6,NA,0,0,0
+"276",662,2012,2757,"Green Lane",83.9698,45,"SLM Facility Solutions Nationwide","PA",46685620,2,"Environmental Services","Philadelphia",-75.4626,40.34,NA,0,0,0
+"277",642,2012,2256,"Pittsburgh",112.1818,206,"JusticeWorks YouthCare","PA",8745080,1,"Government Services","Pittsburgh, PA",-75.4574,40.63,NA,0,0,0
+"278",683,2012,3181,"Allentown",65.1207,129,"Lehigh Gas(2)","PA",1628760000,1,"Energy","Allentown-Bethlehem-Easton, PA-NJ",-75.4372,40.62,NA,0,0,0
+"279",731,2012,4488,"King of Prussia",21.7433,129,"Goddard Systems","PA",35567527,4,"Education","Philadelphia",-75.4161,40.1,NA,0,0,0
+"280",644,2012,2293,"Audubon",109.7534,20,"RSI Content Solutions","PA",4423329,3,"Software","Philadelphia",-75.4048,40.13,NA,0,0,0
+"281",659,2012,2686,"Audubon",87.5109,89,"Globus Medical","PA",331478000,1,"Health","Philadelphia",-75.3988,40.12,NA,0,0,0
+"282",681,2012,3126,"Morgantown",67.5503,44,"EthoSource","PA",10830313,1,"Business Products & Services","Reading, PA",-75.3542,40.09,NA,0,0,0
+"283",638,2012,2111,"Chadds Ford",123.3687,33,"JBS","PA",5814550,1,"Software","Philadelphia",-75.3412,40.29,NA,0,0,0
+"284",710,2012,4058,"Philadelphia",34.407,13,"iFAX Solutions","PA",9701624,6,"Telecommunications","Philadelphia",-75.3251,40.11,NA,0,0,0
+"285",645,2012,2312,"Newtown",108.2574,6168,"EPAM Systems","PA",334528000,5,"IT Services","Philadelphia",-75.2996,40.08,NA,0,0,0
+"286",746,2012,4888,"Conshohocken",8.8192,27,"Saladworks","PA",67790000,5,"Food & Beverage","Philadelphia",-75.2891,40.1,NA,0,0,0
+"287",580,2012,26,"Philadelphia",6428.6649,23,"Leadnomics","PA",11309998,2,"Advertising & Marketing","Philadelphia",-75.1825,39.96,NA,0,0,0
+"288",667,2012,2864,"Philadelphia",79.5003,20,"CoffeeForLess.com","PA",17303098,6,"Food & Beverage","Philadelphia",-75.1713,39.95,NA,0,0,0
+"289",728,2012,4413,"Philadelphia",24.0506,503,"Cozen O'Connor","PA",2.94e+08,3,"Business Products & Services","Philadelphia",-75.1681,39.95,NA,0,0,0
+"290",697,2012,3632,"Horsham",48.7947,156,"Language Services Associates","PA",26044522,5,"Business Products & Services","Philadelphia",-75.1502,40.17,NA,0,0,0
+"291",747,2012,4948,"Horsham",6.9019,20,"ValexConsulting","PA",2060000,1,"IT Services","Philadelphia",-75.1469,40.16,NA,0,0,0
+"292",694,2012,3573,"Warminster",50.9345,34,"Tescor","PA",8435659,2,"Manufacturing","Philadelphia",-75.0812,40.21,NA,0,0,0
+"293",584,2012,165,"Huntingdon Valley",2018.2392,213,"Aardvark Event Logistics","PA",2200088,1,"Advertising & Marketing","Philadelphia",-75.0699,40.16,NA,0,0,0
+"294",441,2011,1451,"Pittsburgh",192.4654,1600,"Liberty Tire Recycling","PA",244374872,3,"Environmental Services","Pittsburgh, PA",-79.9975,40.45,NA,0,0,0
+"295",403,2011,293,"Pittsburgh",1115.2425,269,"Precision Therapeutics","PA",28132450,3,"Health","Pittsburgh, PA",-79.9699,40.43,NA,0,0,0
+"296",488,2011,2866,"Butler",75.0177,68,"Fuellgraf Electric","PA",21383111,3,"Construction","Pittsburgh, PA",-79.9265,40.82,NA,0,0,0
+"297",415,2011,670,"Chester",475.3163,900,"Power Home Remodeling","PA",123227000,8,"Construction","Philadelphia",-79.8764,40.44,NA,0,0,0
+"298",491,2011,2986,"Pittsburgh",69.2592,56,"e-STAFF Consulting Group","PA",5174086,1,"IT Services","Pittsburgh, PA",-79.7687,40.46,NA,0,0,0
+"299",486,2011,2855,"Garnet Valley",75.4119,54,"Critical Path Services","PA",4746999,1,"Business Products & Services","Philadelphia",-79.7422,40.48,NA,0,0,0
+"300",498,2011,3148,"Sharon",62.9527,645,"Quaker Steak & Lube","PA",29082771,5,"Food & Beverage","Youngstown-Warren-Boardman, OH-PA",-77.8041,40.83,NA,0,0,0
+"301",565,2011,4679,"Mount Joy",12.5854,7,"JRD Packaging and Industrial Supply","PA",3824681,2,"Manufacturing","Lancaster, PA",-77.5818,40.59,NA,0,0,0
+"302",417,2011,735,"Mansfield",429.3862,22,"Mansfield Crane Service","PA",4134946,1,"Construction","none",-77.0633,41.78,NA,0,0,0
+"303",561,2011,4595,"Mount Joy",14.734,35,"Phoenix Packaging","PA",7188798,1,"Manufacturing","Lancaster, PA",-76.4682,40.11,NA,0,0,0
+"304",408,2011,396,"Lancaster",858.7401,22,"Synapse Marketing Solutions","PA",3308401,1,"Advertising & Marketing","Lancaster, PA",-76.3887,40.05,NA,0,0,0
+"305",555,2011,4474,"Lancaster",18.575,17,"geographIT","PA",2439245,5,"Government Services","Lancaster, PA",-76.3042,40.06,NA,0,0,0
+"306",426,2011,1157,"Lancaster",256.0434,112,"Smilebuilderz","PA",8701351,4,"Health","Lancaster, PA",-76.1532,40.16,NA,0,0,0
+"307",437,2011,1412,"Reading",200.4094,670,"Fidelity Technologies","PA",109832142,5,"Government Services","Reading, PA",-75.9193,40.37,NA,0,0,0
+"308",490,2011,2917,"Wilkes-Barre",72.3367,400,"Sundance Vacations","PA",60704340,3,"Travel & Hospitality","Scranton--Wilkes-Barre, PA",-75.8514,41.24,NA,0,0,0
+"309",576,2011,4932,"Scranton",4.4093,692,"CPG International","PA",327535000,1,"Manufacturing","Scranton--Wilkes-Barre, PA",-75.6929,41.37,NA,0,0,0
+"310",515,2011,3494,"Reading",49.6587,216,"Caring Matters Home Care(2)","PA",3109987,1,"Health","Reading, PA",-75.6835,41.41,NA,0,0,0
+"311",515,2011,3494,"Reading",49.6587,216,"Caring Matters Home Care(1)","PA",3109987,1,"Health","Reading, PA",-75.6809,41.41,NA,0,0,0
+"312",421,2011,859,"Exton",360.4589,185,"ipipeline","PA",24280000,9,"Software","Philadelphia",-75.5976,40.04,NA,0,0,0
+"313",458,2011,2086,"Whitehall",121.0092,14,"Dynalene","PA",4016142,2,"Manufacturing","Allentown-Bethlehem-Easton, PA-NJ",-75.5042,40.68,NA,0,0,0
+"314",493,2011,3076,"King of Prussia",65.2376,10,"The Logic Group","PA",2489445,2,"IT Services","Philadelphia",-75.4583,40.18,NA,0,0,0
+"315",480,2011,2671,"Coraopolis",85.152,125,"ECSI","PA",20680679,5,"Financial Services","Pittsburgh, PA",-75.4416,39.91,NA,0,0,0
+"316",461,2011,2196,"Wayne",113.7938,60,"Focus Forward(2)","PA",4293033,3,"Advertising & Marketing","Philadelphia",-75.4289,40.07,NA,0,0,0
+"317",549,2011,4380,"King of Prussia",21.3342,48,"Object CTalk(1)","PA",5784000,5,"Government Services","Philadelphia",-75.4139,40.1,NA,0,0,0
+"318",448,2011,1680,"King of Prussia",159.994,13,"HVAC Specialty Answering Service","PA",2003485,1,"Telecommunications","Philadelphia",-75.4133,40.1,NA,0,0,0
+"319",397,2011,123,"Philadelphia",2206.6502,40,"Petplan","PA",18730000,1,"Insurance","Philadelphia",-75.4112,39.99,NA,0,0,0
+"320",469,2011,2417,"Avoca",98.4258,115,"Craft Oil","PA",68175700,1,"Business Products & Services","Scranton--Wilkes-Barre, PA",-75.4079,39.85,NA,0,0,0
+"321",549,2011,4380,"King of Prussia",21.3342,48,"Object CTalk(2)","PA",5784000,5,"Government Services","Philadelphia",-75.3856,40.11,NA,0,0,0
+"322",414,2011,665,"Eagleville",478.4243,27,"Inteprod","PA",5145934,1,"Manufacturing","Philadelphia",-75.3749,40.15,NA,0,0,0
+"323",425,2011,1101,"Lansdale",273.335,14,"Global DMS","PA",2690472,1,"Real Estate","Philadelphia",-75.34,40.24,NA,0,0,0
+"324",537,2011,4169,"Conshohocken",27.1086,12,"Hanover Fire & Casualty Insurance","PA",5004167,4,"Insurance","Philadelphia",-75.3083,40.07,NA,0,0,0
+"325",559,2011,4556,"West Conshohocken",15.9074,349,"The Judge Group","PA",199618000,4,"Human Resources","Philadelphia",-75.3069,40.07,NA,0,0,0
+"326",439,2011,1443,"Collegeville",194.1167,27,"TGaS Advisors","PA",8844772,5,"Health","Philadelphia",-75.3049,40.14,NA,0,0,0
+"327",436,2011,1411,"Conshohocken",200.6103,52,"Empathy Lab","PA",11458845,2,"Advertising & Marketing","Philadelphia",-75.2996,40.08,NA,0,0,0
+"328",410,2011,490,"Lansdale",698.3074,59,"Adept Consulting Services","PA",8411925,2,"IT Services","Philadelphia",-75.288,40.24,NA,0,0,0
+"329",424,2011,895,"Lansdale",342.274,25,"Tri-Force Consulting Services","PA",2449539,2,"IT Services","Philadelphia",-75.2875,40.25,NA,0,0,0
+"330",522,2011,3604,"Blue Bell",45.4424,161,"Corporate Call Center(1)","PA",18827988,3,"Telecommunications","Philadelphia",-75.284,40.15,NA,0,0,0
+"331",463,2011,2243,"Plymouth Meeting",109.7256,390,"Health Advocate","PA",42928375,8,"Health","Philadelphia",-75.2814,40.13,NA,0,0,0
+"332",522,2011,3604,"Blue Bell",45.4424,161,"Corporate Call Center(2)","PA",18827988,3,"Telecommunications","Philadelphia",-75.2745,40.13,NA,0,0,0
+"333",457,2011,2071,"Blue Bell",121.7056,175,"Anexinet","PA",51163000,8,"IT Services","Philadelphia",-75.2714,40.13,NA,0,0,0
+"334",478,2011,2597,"Blue Bell",89.4221,95,"Wellness Coaches USA","PA",8882000,1,"Business Products & Services","Philadelphia",-75.2694,40.16,NA,0,0,0
+"335",522,2011,3604,"Blue Bell",45.4424,161,"Corporate Call Center(3)","PA",18827988,3,"Telecommunications","Philadelphia",-75.2694,40.16,NA,0,0,0
+"336",560,2011,4593,"North Wales",14.9146,969,"Sabre Industries","PA",255315000,2,"Telecommunications","Philadelphia",-75.2614,40.23,NA,0,0,0
+"337",466,2011,2338,"Chambersburg",103.6842,150,"AFCO","PA",38700000,1,"Manufacturing","Chambersburg, PA",-75.2318,39.88,NA,0,0,0
+"338",432,2011,1251,"Ambler",233.0499,10,"Educere","PA",2006536,7,"Education","Philadelphia",-75.2232,40.15,NA,0,0,0
+"339",544,2011,4274,"Erdenheim",23.9448,50,"Griswold Special Care","PA",9030686,2,"Health",NA,-75.2134,40.09,NA,0,0,0
+"340",538,2011,4205,"Philadelphia",25.9636,32,"SES Advisors","PA",6548604,4,"Financial Services","Philadelphia",-75.2121,40.01,NA,0,0,0
+"341",461,2011,2196,"Wayne",113.7938,60,"Focus Forward(1)","PA",4293033,3,"Advertising & Marketing","Philadelphia",-75.2056,40.13,NA,0,0,0
+"342",532,2011,4030,"Philadelphia",31.0844,932,"Pennoni Associates","PA",117931520,3,"Engineering","Philadelphia",-75.1838,39.96,NA,0,0,0
+"343",423,2011,887,"Philadelphia",346.9874,305,"McKean Defense Group","PA",48958143,2,"Government Services","Philadelphia",-75.1747,39.89,NA,0,0,0
+"344",579,2011,4969,"Reading",3.1674,167,"Stevens & Lee","PA",1.14e+08,1,"Business Products & Services","Reading, PA",-75.1703,39.95,NA,0,0,0
+"345",409,2011,397,"Philadelphia",857.4724,22,"TicketLeap","PA",2098004,2,"Consumer Products & Services","Philadelphia",-75.1695,39.95,NA,0,0,0
+"346",570,2011,4846,"Pittsburgh",7.3991,1449,"Reed Smith(2)","PA",9.58e+08,2,"Business Products & Services","Pittsburgh, PA",-75.1689,39.96,NA,0,0,0
+"347",570,2011,4846,"Pittsburgh",7.3991,1449,"Reed Smith(1)","PA",9.58e+08,2,"Business Products & Services","Pittsburgh, PA",-75.1682,39.95,NA,0,0,0
+"348",481,2011,2675,"Philadelphia",84.7934,51,"Customized Energy Solutions","PA",15968000,10,"Energy","Philadelphia",-75.1671,39.95,NA,0,0,0
+"349",438,2011,1431,"Philadelphia",196.0522,48,"Vynamic","PA",10630466,1,"Business Products & Services","Philadelphia",-75.167,39.95,NA,0,0,0
+"350",467,2011,2362,"Philadelphia",102.0125,47,"The Neat Company","PA",33326000,4,"Consumer Products & Services","Philadelphia",-75.1659,39.95,NA,0,0,0
+"351",529,2011,3891,"Pipersville",35.2811,18,"Dear Garden Associates","PA",2098630,1,"Consumer Products & Services","Philadelphia",-75.1484,40.41,NA,0,0,0
+"352",468,2011,2407,"Warrington",99.1199,29,"Tiger Optics","PA",8759364,5,"Manufacturing","Philadelphia",-75.1429,40.22,NA,0,0,0
+"353",558,2011,4497,"Jenkintown",17.7673,70,"Member Solutions","PA",8747778,2,"Financial Services","Philadelphia",-75.125,40.09,NA,0,0,0
+"354",572,2011,4882,"Wayne",6.2806,20100,"Sungard","PA",4.99e+09,1,"IT Services","Philadelphia",-75.0632,40.23,NA,0,0,0
+"355",454,2011,1929,"Warminster",133.1888,10,"Advanced Merchant Group","PA",2246499,1,"Financial Services","Philadelphia",-75.0103,40.15,NA,0,0,0
+"356",483,2011,2737,"Valley Forge",82.0199,88,"Environmental Standards","PA",14932542,6,"Environmental Services","Philadelphia",-74.9771,39.9,NA,0,0,0
+"357",400,2011,214,"Bensalem",1455.3127,5,"Aromatic Fusion","PA",5283164,2,"Manufacturing","Philadelphia",-74.9495,40.11,NA,0,0,0
+"358",402,2011,289,"Newtown",1137.1738,16,"Renavatio Healthcare Communications","PA",4082055,3,"Health","Philadelphia",-74.94,40.23,NA,0,0,0
+"359",511,2011,3380,"Langhorne",54.0513,25,"Collages.net","PA",4669230,4,"Business Products & Services","Philadelphia",-74.878,40.19,NA,0,0,0
+"360",333,2010,3526,"Pittsburgh",48.9956,364,"DynaVox","PA",91160000,1,"Education","Pittsburgh, PA",-79.9755,40.43,NA,0,0,0
+"361",321,2010,3215,"Pittsburgh",60.816,18,"Alps Controls","PA",25386921,1,"Business Products & Services","Pittsburgh, PA",-79.9141,40.4,NA,0,0,0
+"362",283,2010,2438,"Oakmont",100.0815,22,"Touchtown","PA",2734336,2,"Software","Pittsburgh, PA",-79.8427,40.53,NA,0,0,0
+"363",294,2010,2631,"Pittsburgh",88.7153,32,"Advanticom","PA",9009363,3,"IT Services","Pittsburgh, PA",-79.7821,40.43,NA,0,0,0
+"364",281,2010,2330,"Monroeville",107.9007,108,"SDLC Partners","PA",13301200,6,"IT Services","Pittsburgh, PA",-79.7584,40.44,NA,0,0,0
+"365",304,2010,2822,"New Stanton",79.6524,104,"Online Stores","PA",23341713,3,"Retail","Pittsburgh, PA",-79.6187,40.23,NA,0,0,0
+"366",307,2010,2981,"Bedford",71.0773,55,"Szanca Solutions","PA",5145375,2,"Government Services","none",-78.5037,40.02,NA,0,0,0
+"367",344,2010,3799,"Highspire",39.4774,12,"Trisonics","PA",3471069,1,"Health","Harrisburg-Carlisle, PA",-76.8374,40.29,NA,0,0,0
+"368",231,2010,886,"Harrisburg",339.7292,5,"HiDef Lifestyle","PA",2352551,2,"Retail","Harrisburg-Carlisle, PA",-76.7839,40.32,NA,0,0,0
+"369",371,2010,4397,"Harrisburg",21.2874,55,"CJ Pony Parts","PA",17101169,10,"Retail","Harrisburg-Carlisle, PA",-76.7364,40.33,NA,0,0,0
+"370",313,2010,3113,"LANCASTER",64.7512,21,"Dutch Valley Auto Works","PA",2795581,3,"Consumer Products & Services","Lancaster, PA",-76.3997,40.04,NA,0,0,0
+"371",305,2010,2834,"Harrisburg",78.3054,45,"Aaron's(5)","PA",8834368,2,"Retail","Harrisburg-Carlisle, PA",-75.6612,40.25,NA,0,0,0
+"372",345,2010,3809,"Lansdale",39.2032,34,"Berk Wiper International","PA",20285962,5,"Manufacturing","Philadelphia",-75.6347,40.33,NA,0,0,0
+"373",303,2010,2808,"Bryn Mawr",80.1015,21,"Visiting Angels(5)","PA",9585000,4,"Health","Philadelphia",-75.6249,39.87,NA,0,0,0
+"374",375,2010,4533,"Boyertown",17.3639,97,"Gateway Ticketing Systems","PA",13156151,5,"Software","Reading, PA",-75.6197,40.34,NA,0,0,0
+"375",285,2010,2458,"Malvern",99.1431,19,"Jacquette Consulting","PA",3802125,3,"IT Services","Philadelphia",-75.6065,40.03,NA,0,0,0
+"376",388,2010,4818,"Fort Washington",8.7695,110,"McMahon Associates","PA",16118490,2,"Engineering","Philadelphia",-75.6003,40.03,NA,0,0,0
+"377",236,2010,1055,"West Chester",287.315,135,"HomeNet Automotive","PA",15946970,4,"Software","Philadelphia",-75.5972,40.04,NA,0,0,0
+"378",386,2010,4757,"Newtown",NA,358,"Norman's Gift Shops(2)","PA",0,1,"Retail","Philadelphia",-75.5275,39.88,NA,0,0,0
+"379",218,2010,302,"Bethlehem",994.9627,15,"EcoTech Marine","PA",3753094,1,"Consumer Products & Services","Allentown-Bethlehem-Easton, PA-NJ",-75.4371,40.65,NA,0,0,0
+"380",303,2010,2808,"Bryn Mawr",80.1015,21,"Visiting Angels(3)","PA",9585000,4,"Health","Philadelphia",-75.4306,40.13,NA,0,0,0
+"381",340,2010,3650,"Wayne",44.5277,141,"Prime Technology Group","PA",5809834,7,"IT Services","Philadelphia",-75.4269,40.07,NA,0,0,0
+"382",356,2010,4131,"Wayne",29.1004,417,"LiquidHub","PA",44677093,6,"IT Services","Philadelphia",-75.4231,40.08,NA,0,0,0
+"383",309,2010,3024,"Wayne",68.9189,246,"Octagon Research Solutions","PA",37500000,4,"Health","Philadelphia",-75.4169,40.08,NA,0,0,0
+"384",326,2010,3298,"King of Prussia",57.9056,55,"Object CTalk","PA",5348477,5,"Government Services","Philadelphia",-75.4139,40.1,NA,0,0,0
+"385",298,2010,2673,"Radnor",86.5622,512,"ImageFIRST Healthcare Laundry Specialists","PA",61295000,1,"Health","Philadelphia",-75.409,40.1,NA,0,0,0
+"386",267,2010,1984,"Bethlehem",134.8987,63,"Adaptik","PA",10772994,1,"Insurance","Allentown-Bethlehem-Easton, PA-NJ",-75.4044,40.65,NA,0,0,0
+"387",224,2010,571,"Eagleville",537.72,58,"Clear Align","PA",3905053,2,"Government Services","Philadelphia",-75.4025,40.13,NA,0,0,0
+"388",373,2010,4468,"Wyomissing",19.207,83,"RPA Engineering","PA",8641979,1,"Engineering","Reading, PA",-75.3991,40.12,NA,0,0,0
+"389",334,2010,3555,"Chester",48.2281,200,"Fisher Tank Company","PA",70477926,3,"Construction","Philadelphia",-75.3955,39.83,NA,0,0,0
+"390",351,2010,4035,"King of Prussia",31.8403,92,"American Reading Company","PA",19105795,3,"Education","Philadelphia",-75.3809,40.08,NA,0,0,0
+"391",241,2010,1169,"Radnor",255.4529,555,"QlikTech","PA",157359000,4,"Software","Philadelphia",-75.3658,40.04,NA,0,0,0
+"392",353,2010,4069,"King of Prussia",30.8855,250,"MedRisk","PA",109409117,11,"Insurance","Philadelphia",-75.3449,40.08,NA,0,0,0
+"393",305,2010,2834,"Harrisburg",78.3054,45,"Aaron's(1)","PA",8834368,2,"Retail","Harrisburg-Carlisle, PA",-75.3307,40.13,NA,0,0,0
+"394",250,2010,1379,"Clifton Heights",210.8125,49,"ProfitPoint","PA",12430956,3,"Financial Services","Philadelphia",-75.3195,39.97,NA,0,0,0
+"395",387,2010,4795,"Conshohocken",9.3561,0,"Rumsey Electric","PA",172249000,3,"Business Products & Services","Philadelphia",-75.3109,40.08,NA,0,0,0
+"396",390,2010,4839,"Haverford",7.8982,82,"Staffing Plus","PA",29071000,1,"Human Resources","Philadelphia",-75.3083,40.02,NA,0,0,0
+"397",349,2010,3956,"Bethlehem",33.9807,50,"I&I Software","PA",4986890,7,"IT Services","Allentown-Bethlehem-Easton, PA-NJ",-75.2973,40.66,NA,0,0,0
+"398",386,2010,4757,"Newtown",NA,358,"Norman's Gift Shops(1)","PA",0,1,"Retail","Philadelphia",-75.2969,39.92,NA,0,0,0
+"399",386,2010,4757,"Newtown",NA,358,"Norman's Gift Shops(5)","PA",0,1,"Retail","Philadelphia",-75.2908,40.17,NA,0,0,0
+"400",303,2010,2808,"Bryn Mawr",80.1015,21,"Visiting Angels(4)","PA",9585000,4,"Health","Philadelphia",-75.2864,40.24,NA,0,0,0
+"401",305,2010,2834,"Harrisburg",78.3054,45,"Aaron's(2)","PA",8834368,2,"Retail","Harrisburg-Carlisle, PA",-75.2843,39.9,NA,0,0,0
+"402",370,2010,4372,"Erdenheim",21.8335,56,"Griswold International","PA",33238445,1,"Health","Philadelphia",-75.2084,40.69,NA,0,0,0
+"403",385,2010,4731,"Philadelphia",11.5226,488,"Ballard Spahr Andrews & Ingersoll","PA",2.71e+08,1,"Business Products & Services","Philadelphia",-75.1765,39.95,NA,0,0,0
+"404",382,2010,4672,"Philadelphia",13.3333,700,"Team Clean","PA",1.7e+07,1,"Business Products & Services","Philadelphia",-75.1745,39.89,NA,0,0,0
+"405",381,2010,4668,"Philadelphia",13.3803,490,"Blank Rome","PA",3.22e+08,1,"Business Products & Services","Philadelphia",-75.1706,39.96,NA,0,0,0
+"406",330,2010,3455,"Philadelphia",51.8293,621,"Drinker Biddle","PA",373500000,2,"Business Products & Services","Philadelphia",-75.1705,39.96,NA,0,0,0
+"407",358,2010,4147,"Philadelphia",28.5714,484,"Pepper Hamilton","PA",3.33e+08,2,"Business Products & Services","Philadelphia",-75.1699,39.96,NA,0,0,0
+"408",338,2010,3606,"Pittsburgh",46.2733,1427,"Reed Smith","PA",9.42e+08,2,"Business Products & Services","Pittsburgh, PA",-75.1689,39.96,NA,0,0,0
+"409",347,2010,3944,"Philadelphia",34.3978,49,"A. Pomerantz & Co.","PA",42547252,1,"Business Products & Services","Philadelphia",-75.1658,39.95,NA,0,0,0
+"410",384,2010,4728,"East Stroudsburg",11.5983,55,"Vigon International","PA",36423199,7,"Manufacturing","East Stroudsburg, PA",-75.156,41.03,NA,0,0,0
+"411",291,2010,2580,"Philadelphia",91.2197,24,"Azavea","PA",2180126,2,"Software","Philadelphia",-75.1542,39.96,NA,0,0,0
+"412",362,2010,4196,"Warrington",27.2362,28,"SnapCab","PA",6148681,8,"Manufacturing","Philadelphia",-75.1429,40.22,NA,0,0,0
+"413",261,2010,1846,"Horsham",148.2402,38,"Interactive Solutions (Horsham, PA)","PA",2895000,2,"Financial Services","Philadelphia",-75.1338,40.18,NA,0,0,0
+"414",369,2010,4368,"Willow Grove",21.9317,1800,"AnswerNet","PA",49675075,1,"Telecommunications","Philadelphia",-75.1322,40.16,NA,0,0,0
+"415",305,2010,2834,"Harrisburg",78.3054,45,"Aaron's(3)","PA",8834368,2,"Retail","Harrisburg-Carlisle, PA",-75.1088,40.04,NA,0,0,0
+"416",305,2010,2834,"Harrisburg",78.3054,45,"Aaron's(4)","PA",8834368,2,"Retail","Harrisburg-Carlisle, PA",-75.108,40.17,NA,0,0,0
+"417",332,2010,3515,"Bensalem",49.4089,22,"Atlantic Maintenance Services","PA",2169851,2,"Construction","Philadelphia",-74.9793,40.06,NA,0,0,0
+"418",242,2010,1180,"Langhorne",252.0536,30,"RideSafely.com","PA",33875562,4,"Consumer Products & Services","Philadelphia",-74.9791,40.12,NA,0,0,0
+"419",377,2010,4561,"Bensalem",16.671,46,"Advanced Lubrication Specialties","PA",108969601,3,"Manufacturing","Philadelphia",-74.9433,40.07,NA,0,0,0
+"420",238,2010,1129,"King of Prussia",266.2093,20,"Expert Service Providers","PA",2344600,1,"Telecommunications","Philadelphia",-74.9277,40.09,NA,0,0,0
+"421",386,2010,4757,"Newtown",NA,358,"Norman's Gift Shops(4)","PA",0,1,"Retail","Philadelphia",-74.9126,39.97,NA,0,0,0
+"422",296,2010,2639,"Newtown",88.4007,57,"mPower Software Services","PA",9114344,1,"IT Services","Philadelphia",-74.9125,40.23,NA,0,0,0
+"423",223,2010,552,"Trevose",556.6699,24,"PharMethod","PA",2530300,1,"Health","Philadelphia",-74.8991,40.18,NA,0,0,0
+"424",386,2010,4757,"Newtown",NA,358,"Norman's Gift Shops(3)","PA",0,1,"Retail","Philadelphia",-74.8795,40.18,NA,0,0,0
+"425",379,2010,4614,"Philadelphia",15.156,613,"Duane Morris","PA",387500000,3,"Business Products & Services","Philadelphia",-74.8705,40.18,NA,0,0,0
+"426",63,2009,1702,"Pittsburgh",187.3208,22,"Guru.com","PA",23585000,3,"Business Products & Services","Pittsburgh, PA",-79.945,40.46,NA,0,0,0
+"427",83,2009,2088,"Export",152.3979,30,"Maverick Dental Laboratories","PA",5771090,1,"Health","Pittsburgh, PA",-79.7153,40.43,NA,0,0,0
+"428",86,2009,2184,"Mt. Pleasant",144.6399,15,"80sTees.com","PA",10595015,1,"Retail","Pittsburgh, PA",-79.5628,40.19,NA,0,0,0
+"429",64,2009,1719,"Somerset",185.1452,45,"Guy Chemical","PA",15601733,2,"Manufacturing","Somerset, PA",-78.9908,39.99,NA,0,0,0
+"430",19,2009,608,"Philipsburg",448.3383,96,"QBC Diagnostics","PA",10501430,1,"Health","State College, PA",-78.0455,40.81,NA,0,0,0
+"431",193,2009,4628,"Mechanicsburg",24.28,7,"recoupIT","PA",6846375,2,"Computer Hardware","Harrisburg-Carlisle, PA",-77.0304,40.21,NA,0,0,0
+"432",119,2009,2987,"Harrisburg",92.8382,31,"Higher Information Group","PA",7270000,2,"Business Products & Services","Harrisburg-Carlisle, PA",-76.7836,40.33,NA,0,0,0
+"433",183,2009,4418,"Lititz",34.5589,17,"Lancaster County Timber Frames","PA",2525174,2,"Construction","Lancaster, PA",-76.5661,39.97,NA,0,0,0
+"434",182,2009,4395,"Philadelphia",35.2987,140,"The Richardson Group","PA",27080557,3,"Education","Philadelphia",-76.3058,40.06,NA,0,0,0
+"435",16,2009,583,"Lancaster",464.7446,52,"Nxtbook Media","PA",6671735,2,"Software","Reading, PA",-76.2954,40.05,NA,0,0,0
+"436",181,2009,4393,"Harrisburg",35.4941,95,"Journal Multimedia","PA",12456913,7,"Media","Harrisburg-Carlisle, PA",-76.2467,40.04,NA,0,0,0
+"437",209,2009,9999,"Lancaster",948.6607,43,"Paramount Contracting","PA",7047000,1,"Construction","Lancaster, PA",-76.2096,40.04,NA,0,0,0
+"438",120,2009,3002,"Shavertown",91.81,140,"Solid Cactus","PA",22399334,3,"Advertising & Marketing","Scranton--Wilkes-Barre, PA",-75.9601,41.05,NA,0,0,0
+"439",92,2009,2307,"Coatesville",133.6784,2,"New Light Learning and Development Inc.","PA",376963,1,"Education","Philadelphia",-75.9322,40.02,NA,0,0,0
+"440",29,2009,969,"Reading",316.1103,10,"Chris Talarico & Associates","PA",12305448,2,"Human Resources","Reading, PA",-75.9292,40.35,NA,0,0,0
+"441",58,2009,1591,"Wilkes-Barre",200.6913,125,"Cavanaugh Electrical Contracting","PA",21529302,2,"Construction","Scranton--Wilkes-Barre, PA",-75.9219,41.21,NA,0,0,0
+"442",174,2009,4312,"Pottstown",38.4831,120,"Traffic Planning and Design(4)","PA",14789703,3,"Engineering","Philadelphia",-75.8293,39.61,NA,0,0,0
+"443",184,2009,4464,"Kennett Square",32.8245,10,"International WIN","PA",2075706,2,"Health","Philadelphia",-75.7226,39.85,NA,0,0,0
+"444",201,2009,4792,"Kennett Square",14.5983,8,"Weaver & Holihan","PA",2270098,3,"Advertising & Marketing","Philadelphia",-75.7133,39.85,NA,0,0,0
+"445",45,2009,1373,"Kennett Square",232.5443,34,"Receivable Recovery Solutions","PA",2855741,1,"Health","Philadelphia",-75.7049,39.85,NA,0,0,0
+"446",91,2009,2261,"Hummelstown",138.0991,58,"Arcus Design Group(2)","PA",22062459,4,"Human Resources","Harrisburg-Carlisle, PA",-75.6758,40.06,NA,0,0,0
+"447",200,2009,4779,"Temple",15.342,43,"L&J Transportation","PA",4913192,2,"Logistics & Transportation","Reading, PA",-75.6638,40.24,NA,0,0,0
+"448",109,2009,2774,"Boyertown",103.5093,42,"Sealstrip","PA",8765691,1,"Manufacturing","Reading, PA",-75.6196,40.33,NA,0,0,0
+"449",169,2009,4179,"Gilbertsville",43.3063,47,"S&W Metal Products","PA",13793520,2,"Manufacturing","Philadelphia",-75.6186,40.34,NA,0,0,0
+"450",174,2009,4312,"Pottstown",38.4831,120,"Traffic Planning and Design(1)","PA",14789703,3,"Engineering","Philadelphia",-75.5905,39.99,NA,0,0,0
+"451",174,2009,4312,"Pottstown",38.4831,120,"Traffic Planning and Design(2)","PA",14789703,3,"Engineering","Philadelphia",-75.59,40.24,NA,0,0,0
+"452",52,2009,1483,"Bala Cynwyd",216.6961,70,"Keystone Property Group(2)","PA",50761629,2,"Real Estate","Philadelphia",-75.5482,39.75,NA,0,0,0
+"453",106,2009,2647,"Erie",111.7987,110,"Logistics Plus","PA",67690828,3,"Logistics & Transportation","Erie, PA",-75.5456,39.69,NA,0,0,0
+"454",69,2009,1817,"Malvern",175.3,150,"DSG","PA",32122000,3,"Health","Philadelphia",-75.5423,40.06,NA,0,0,0
+"455",185,2009,4503,"Mayfield",30.8414,148,"P. A. Hutchison","PA",23562916,3,"Media","Scranton--Wilkes-Barre, PA",-75.5413,41.54,NA,0,0,0
+"456",97,2009,2428,"West Conshohocken",124.3442,191,"Cadient Group","PA",28527739,3,"Advertising & Marketing","Philadelphia",-75.516,40.06,NA,0,0,0
+"457",91,2009,2261,"Hummelstown",138.0991,58,"Arcus Design Group(1)","PA",22062459,4,"Human Resources","Harrisburg-Carlisle, PA",-75.5101,40.04,NA,0,0,0
+"458",59,2009,1607,"Dickson City",199.146,86,"SCE Environmental Group","PA",15667600,2,"Environmental Services","Scranton--Wilkes-Barre, PA",-75.4882,41.41,NA,0,0,0
+"459",114,2009,2903,"Media",96.4003,125,"Relevante(1)","PA",6678492,3,"Financial Services","Philadelphia",-75.4718,40.06,NA,0,0,0
+"460",114,2009,2903,"Media",96.4003,125,"Relevante(2)","PA",6678492,3,"Financial Services","Philadelphia",-75.4688,40.06,NA,0,0,0
+"461",173,2009,4292,"Boothwyn",39.1062,16,"Priority Archives","PA",2103841,1,"Business Products & Services","Philadelphia",-75.4488,39.85,NA,0,0,0
+"462",202,2009,4795,"Aston",14.4259,87,"Topp Portable Air","PA",21043254,2,"Manufacturing","Philadelphia",-75.4409,39.87,NA,0,0,0
+"463",8,2009,390,"West Hazleton",655.7359,2,"RAC Enterprise","PA",4797472,2,"Retail","Scranton--Wilkes-Barre, PA",-75.4379,39.91,NA,0,0,0
+"464",121,2009,3035,"Wayne",90.1651,12,"Assigned Counsel","PA",6683718,2,"Human Resources","Philadelphia",-75.4289,40.07,NA,0,0,0
+"465",53,2009,1493,"Wayne",214.6081,9,"Direct Choice","PA",8441922,3,"Advertising & Marketing","Philadelphia",-75.4186,40.08,NA,0,0,0
+"466",142,2009,3543,"Wayne",67.711,66,"Tunnell Consulting","PA",47443606,3,"Business Products & Services","Philadelphia",-75.409,40.1,NA,0,0,0
+"467",199,2009,4762,"King of Prussia",16.9442,34,"Smooth Fitness","PA",26192000,3,"Retail","Philadelphia",-75.4061,40.1,NA,0,0,0
+"468",129,2009,3273,"King of Prussia",78.7918,20,"Kershner Office Furniture","PA",7161291,3,"Business Products & Services","Philadelphia",-75.4013,40.1,NA,0,0,0
+"469",15,2009,574,"Media",468.1465,26,"Ferrilli Information Group","PA",2716547,1,"Education","Philadelphia",-75.3959,39.92,NA,0,0,0
+"470",52,2009,1483,"Bala Cynwyd",216.6961,70,"Keystone Property Group(1)","PA",50761629,2,"Real Estate","Philadelphia",-75.3914,39.94,NA,0,0,0
+"471",52,2009,1483,"Bala Cynwyd",216.6961,70,"Keystone Property Group(4)","PA",50761629,2,"Real Estate","Philadelphia",-75.3298,40.15,NA,0,0,0
+"472",103,2009,2580,"Sellersville",115.4564,70,"Exida","PA",10297484,1,"Business Products & Services","Philadelphia",-75.3099,40.36,NA,0,0,0
+"473",37,2009,1185,"King of Prussia",267.4361,350,"HighPoint Solutions","PA",51398000,1,"IT Services","Philadelphia",-75.305,40.14,NA,0,0,0
+"474",105,2009,2596,"Conshohocken",114.3907,32,"JK Associates","PA",9240733,1,"Health","Philadelphia",-75.2887,40.08,NA,0,0,0
+"475",165,2009,4077,"Blue Bell",47.7027,12,"The Carney Group","PA",6240796,4,"Human Resources","Philadelphia",-75.2851,40.15,NA,0,0,0
+"476",66,2009,1743,"Blue Bell",182.1324,44,"Corporate Call Center","PA",12728085,3,"Telecommunications","Philadelphia",-75.284,40.15,NA,0,0,0
+"477",52,2009,1483,"Bala Cynwyd",216.6961,70,"Keystone Property Group(3)","PA",50761629,2,"Real Estate","Philadelphia",-75.2802,40.13,NA,0,0,0
+"478",12,2009,441,"Blue Bell",583.3188,2491,"UniTek USA","PA",265586000,1,"Telecommunications","Philadelphia",-75.2786,40.13,NA,0,0,0
+"479",23,2009,788,"Blue Bell",370.7667,80,"Turnberry Solutions","PA",17506671,1,"IT Services","Philadelphia",-75.2786,40.13,NA,0,0,0
+"480",104,2009,2584,"Hilltown",115.052,7,"A.F. Alber General Contractor","PA",5318652,1,"Construction","Philadelphia",-75.2377,40.33,NA,0,0,0
+"481",187,2009,4569,"Bala Cynwyd",27.376,23,"LearnQuest","PA",5082526,4,"Education","Philadelphia",-75.2173,40.01,NA,0,0,0
+"482",135,2009,3427,"Mount Joy",72.1063,94,"HVAC Distributors","PA",39087512,2,"Construction","Lancaster, PA",-75.2121,40.01,NA,0,0,0
+"483",174,2009,4312,"Pottstown",38.4831,120,"Traffic Planning and Design(3)","PA",14789703,3,"Engineering","Philadelphia",-75.1674,39.95,NA,0,0,0
+"484",91,2009,2261,"Hummelstown",138.0991,58,"Arcus Medica LLC","PA",22062459,4,"Human Resources","Harrisburg-Carlisle, PA",-75.1647,39.95,NA,0,0,0
+"485",190,2009,4605,"Pittsburgh",25.7259,13236,"General Nutrition Centers(1)","PA",1656700000,2,"Health","Pittsburgh, PA",-75.1549,39.91,NA,0,0,0
+"486",190,2009,4605,"Pittsburgh",25.7259,13236,"General Nutrition Centers(5)","PA",1656700000,2,"Health","Pittsburgh, PA",-75.1533,39.95,NA,0,0,0
+"487",90,2009,2257,"Pipersville",138.3101,9,"JW Surety Bonds","PA",2580917,2,"Insurance","Philadelphia",-75.1485,40.39,NA,0,0,0
+"488",6,2009,221,"Philadelphia",935.4013,26,"Cities2Night.com","PA",3260458,1,"Media","Philadelphia",-75.1467,39.96,NA,0,0,0
+"489",91,2009,2261,"Hummelstown",138.0991,58,"Arcus Medica","PA",22062459,4,"Human Resources","Harrisburg-Carlisle, PA",-75.1449,39.95,NA,0,0,0
+"490",190,2009,4605,"Pittsburgh",25.7259,13236,"General Nutrition Centers(3)","PA",1656700000,2,"Health","Pittsburgh, PA",-75.1443,39.93,NA,0,0,0
+"491",174,2009,4312,"Pottstown",38.4831,120,"Traffic Planning and Design(5)","PA",14789703,3,"Engineering","Philadelphia",-75.1288,39.95,NA,0,0,0
+"492",190,2009,4605,"Pittsburgh",25.7259,13236,"General Nutrition Centers(2)","PA",1656700000,2,"Health","Pittsburgh, PA",-75.12,39.98,NA,0,0,0
+"493",190,2009,4605,"Pittsburgh",25.7259,13236,"General Nutrition Centers(4)","PA",1656700000,2,"Health","Pittsburgh, PA",-75.0628,39.9,NA,0,0,0
+"494",128,2009,3247,"Southampton",79.887,23,"Digital Color Graphics","PA",3184000,2,"Business Products & Services","Philadelphia",-75.055,40.16,NA,0,0,0
+"495",39,2009,1209,"Trevose",263.9412,50,"AirClic","PA",12101015,1,"Software","Philadelphia",-74.9345,40.22,NA,0,0,0
+"496",100,2009,2491,"Fort Washington",120.8042,50,"Amtech","PA",7522913,3,"Software","Philadelphia",-74.922,40.08,NA,0,0,0
+"497",186,2009,4562,"Langhorne",27.8195,35,"Lodestar Consulting","PA",20060000,2,"IT Services","Philadelphia",-74.9125,40.23,NA,0,0,0
+"498",94,2009,2343,"Bristol",130.7229,66,"Advent Design","PA",13234101,3,"Manufacturing","Philadelphia",-74.8521,40.1,NA,0,0,0
